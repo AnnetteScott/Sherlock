@@ -104,7 +104,7 @@ IV Grow old naturally.
 
 43 No clue.
 
-44 MOTIVE CLUE (Four parts)
+44 MOTIVE CLUE (Four Parts)
 I Abbreviated century + over.
 II The opposite of down.
 
@@ -134,7 +134,7 @@ II Group of orange trees.
 54 CODE CLUE
 H = S
 
-55 KILLER CLUE (Two parts)
+55 KILLER CLUE (Two Parts)
 II Abbreviated name of famous London Hospital.
 
 56 Holmes knows that once caught up in Moriarty's web of crime, it is impossible to escape.
@@ -153,7 +153,7 @@ II Not high cattle noise.
 
 62 Heelwright's greatest desire is to make some notable archaeological discovery during his lifetime.
 
-63 WEAPON CLUE (Two parts)
+63 WEAPON CLUE (Two Parts)
 I 'Well,_ me down!'
 
 64 The carriage driver is not the Chameleon.
@@ -236,7 +236,7 @@ II An imperial unit of measure
 96 MOTIVE CLUE (Four Parts)
 III What shaped room did Lynne Reid Banks write about?
 
-97 MOTIVE CLUE FOR KILLING BURNED BODY (Two parts)
+97 MOTIVE CLUE FOR KILLING BURNED BODY (Two Parts)
 I Pudding for April 1st.
 
 98 An autopsy of the giant rat has revealed the animal died from overeating.
@@ -304,12 +304,12 @@ Chef's offspring?
 126 HOLMES WHEREABOUTS CLUE (Two Parts)
 I Ancient fortification that separates Scotland and England
 
-127 MOTIVE CLUE (Two parts)
+127 MOTIVE CLUE (Two Parts)
 I This stone celebrates 60 years.
 
 128 No clue.
 
-129 MOTIVE CLUE (Four parts)
+129 MOTIVE CLUE (Four Parts)
 IV Rise in a muddle
 
 130 HIDING PLACE CLUE (Two Parts)
@@ -317,7 +317,7 @@ II Dr Finlay's __ book.
 
 131 Near Scotland Yard are vacant premises with a deep cellar and boiler room. 132 JS Subkow takes little yellow pills regularly for a liver condition.
 
-133 KILLER CLUE (Two parts)
+133 KILLER CLUE (Two Parts)
 I High ground.
 
 134 KILLER CLUE (Two Parts)
@@ -1189,7 +1189,7 @@ II Managing to finish off the top of a wall.
 
 492 Silverman's business empire was in chaos. A marriage might help cement the proposed merger between Silverman Enterprises and the Fortescue Foundation.
 
-493 MOTIVE CLUE (Four parts)
+493 MOTIVE CLUE (Four Parts)
 I One nautical mile per hour.
 III New book.
 
@@ -1212,7 +1212,7 @@ II Went without tea.
 
 503 Discreet inquiries by Holmes reveal that Digweed is acquainted with Parsons; indeed he owes Parsons money in respect of debts incurred at cards.
 
-504 ADVICE CLUE (Two parts)
+504 ADVICE CLUE (Two Parts)
 I The polite way to back out of an argument age of 65 !
 
 505 The street below Edna Burridge's room is strewn with rubble, rubbish and refuse which Holes examines with some care.
@@ -1369,7 +1369,7 @@ II 'When one .... closes, another ..... opens'.
 II Opposite of debit.
 IV The aim of Football clubs in lower divisions?
 
-573 KILLER CLUE (Two parts)
+573 KILLER CLUE (Two Parts)
 II Bishop paints horses?
 
 574 The killing was a real 'cat and mouse' affair.
@@ -1392,7 +1392,7 @@ II He carries stout ale.
 
 582 A College punt has failed to be returned by nightfall.
 
-583 ADVICE CLUE (Two parts)
+583 ADVICE CLUE (Two Parts)
 II Said before meals
 
 584 A devoted reader ofTooley's novels, Mrs Purvis has been impressed by Nurse Owen's detailed knowledge of his latest work, 'For Women Must Weep'.
@@ -1581,12 +1581,12 @@ Ate ark in pieces with chop.
 
 675 The Snowdrop was not the only thing stolen from Hull's safe.
 
-676 LOCATION CLUE (2 parts)
+676 LOCATION CLUE (2 Parts)
 II Source for water or oil.
 
 677 Lechlade's house master, Mr Shepherd, has reported that items of warm clothing are missing from the boys wardrobe.
 
-678 LOCATION CLUE (3 parts)
+678 LOCATION CLUE (3 Parts)
 III Not only lions live in such places.
 
 679 'No one else ever enters our compartment,' said Mortimore. 'Never?' 'No, the ticket inspector sees to that.' (Continued at Bank)
@@ -1619,7 +1619,7 @@ Not to be cast before swine.
 
 694 Jones admitted that he always carried a walking stick to defend himself.
 
-695 LOCATION CLUE (Two parts)
+695 LOCATION CLUE (Two Parts)
 II A carpenter's case
 
 696 (Continued from Tobacconist). 'The ticket Inspector?' 'Yes,' said Lord Farthingale. 'He always checked to see we were comfortable before Sir Jasper fell asleep.'
