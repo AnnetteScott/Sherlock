@@ -1,7 +1,8 @@
 <script lang="ts">
 import { defineComponent } from 'vue';
 import caseData, { type Locations } from './cases';
-import clues from './clues'
+import clues, { Clue } from './clues'
+import info from './data'
 
 class UserData {
 	cases: Case[] = [];
@@ -56,10 +57,96 @@ export default defineComponent({
 			this.userData = JSON.parse(data)
 		};
 		console.log(this.userData);
+		console.log(clues);
+		this.parseData();
 	},
 	methods: {
 		update(){
 			localStorage.setItem('userData', JSON.stringify(this.userData));
+		},
+		parseData(){
+			const lines = info.split('\n');
+
+			const clues = {} as {[num: number]: Clue}
+
+			let clueNum = 1;
+			let clueType = ""
+			let partTotal = 0;
+			let clueMessage = "No Clue."
+
+
+			for(const lineInfo of lines){
+				const line = lineInfo.trim();
+				if(line === ''){
+					continue;
+				}
+
+				// Start of clue
+				if(!(/^(1[0-9]{0,2}|[1-9][0-9]?|1050)/.test(line))){
+					clueMessage += line + '\n'
+					continue;
+				}
+
+				//console.log(line);
+					
+				//Save Previous Clue
+				let clue = new Clue();
+				clue.type = clueType;
+				clue.message = clueMessage;
+				clue.partTotal = partTotal;
+				clues[clueNum] = clue;
+
+				//Clear
+				clueNum = 1;
+				clueType = ""
+				partTotal = 0;
+				clueMessage = ""
+
+				//parse current clue num
+				clueNum = parseInt(line.split(" ")[0]);
+
+				if(line.includes("Parts)")){
+					const split = line.split("(")
+					clueType = split[0].substring(split[0].indexOf(" ")).trim();
+					let length = (split[1].trim()).split(" ")[0];
+					partTotal = this.getLength(length);
+				}
+				else if(line.includes("CLUE") && clueNum != 286){
+					const split = line.split(" ")
+					split.shift();
+					console.log(split)
+					clueType = split.join(" ").trim();
+					console.log(clueType)
+				}
+				else {
+					clueMessage = line.substring(line.indexOf(' ')).trim();
+				}
+
+			}
+
+			//Save last Clue
+			let clue = new Clue();
+			clue.type = clueType;
+			clue.message = clueMessage;
+			clue.partTotal = partTotal;
+			clues[clueNum] = clue;
+
+			console.log(JSON.stringify(clues, undefined, 4));
+
+		},
+		getLength(length: string){
+			let num = 0;
+			length == 'One' ? num = 1 : 0;
+			length == 'Two' ? num = 2 : 0;
+			length == 'Three' ? num = 3 : 0;
+			length == 'Four' ? num = 4 : 0;
+			length == 'Five' ? num = 5 : 0;
+			length == 'Six' ? num = 6 : 0;
+			length == 'Seven' ? num = 7 : 0;
+			length == 'Eight' ? num = 8 : 0;
+			length == 'Nine' ? num = 9 : 0;
+
+			return num;
 		},
 		newCase(){
 			const found = this.userData.cases.some(el => el.number === this.caseNum);
@@ -110,7 +197,7 @@ export default defineComponent({
 		<main>
 			<button style="position: absolute; right: 10px; z-index: 10;" @click="createNew = !createNew">+</button>
 			<section v-if="createNew">
-				<h1>New Case</h1>
+				<h1>Add Case</h1>
 				<form @submit.prevent="newCase()">
 					<input type="number" min="1" max="75" step="1" v-model="caseNum">
 					<button type="submit">Create Case</button>
@@ -144,6 +231,10 @@ export default defineComponent({
 						<span class="material-symbols-rounded" v-if="!info.revealed">lock</span>
 						<h2>{{ site }}</h2>
 					</div>
+					<span v-if="info.revealed">
+						{{ clues[caseData[caseNum.toString()].location[site as Locations]].type }}
+						{{ clues[caseData[caseNum.toString()].location[site as Locations]].partTotal }}
+					</span>
 					<p v-if="info.revealed">
 						{{ clues[caseData[caseNum.toString()].location[site as Locations]].message }}
 					</p>
