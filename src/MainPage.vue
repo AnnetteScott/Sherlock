@@ -79,7 +79,7 @@ export default defineComponent({
 				const split = line.split("CLUE");
 				clueNum = parseInt(split[0]);
 
-				if(line.includes("CLUE (")){
+				if(line.includes("CLUE")){
 					clueType = split[0].substring(split[0].indexOf(" ")).trim() as ClueType;
 					let length = (split[1].trim()).split(" ")[0];
 					partTotal = this.getLength(length.substring(1));

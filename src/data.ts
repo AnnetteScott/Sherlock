@@ -80,613 +80,1014 @@ II B D F HJ_.
 
 35 KILLER CLUE (Two Parts)
 II If US = WE, I = __.
+
 36 During their courtship Randolph Meacham had brought Raphaela many presents.
+
 37 Leopold Harkness is an undercover agent for British Intelligence.
+
 38 KILLER CLUE (Four Parts)
 I Come first.
 39 Miss Pierpoint was known to take aspirin for her arthritis at bedtime.
+
 40 KILLER CLUE (Two Parts)
 II Baby's bed.
 41 MOTIVE CLUE (Two Parts)
 II Ornaments are placed on a Christmas __.
+
 42 KILLER CLUE (Four Parts)
 II Approximately, more or _?
 IV Grow old naturally.
+
 43 No clue.
+
 44 MOTIVE CLUE (Four parts)
 I Abbreviated century + over.
 II The opposite of down.
 45 Arthur Hawksworth owes vast gambling debts.
+
 46 Ann Whiston is not able to have a baby of her own.
+
 47 No clue.
+
 48 GENERAL WEAPON CLUE
 The weapon is the water.
 49 CHAMELEON CLUE (Two Parts)
 I little, __ , least.
+
 50 MOTIVE CLUE (Four Parts)
 IV Ele__ary, my dear Watson.
+
 51 WEAPON CLUE (Three Parts)
 III Cats lap it up.
+
 52 KILLER CLUE (Two Parts)
 II Group of orange trees.
+
 53 It was Saleem's responsibility to feed the animals during the voyage.
+
 54 CODE CLUE
 H = S
+
 55 KILLER CLUE (Two parts)
 II Abbreviated name of famous London Hospital.
+
 56 Holmes knows that once caught up in Moriarty's web of crime, it is impossible to escape.
+
 57 No clue.
+
 58 Longworth had read a bible to the victim and the Duke of Tallcourt the day before the murder.
+
 59 The police have been unable to get information on Bessie Kidder in the neighbourhood where Ferguson believed she came from.
+
 60 HOLMES WHEREABOUTS CLUE (Two Parts)
+
 II Not high cattle noise.
+
 61 When inspecting the Sumatran menagerie, Mandeville jokingly remarked "that the Giant Rat looked hungry
 enough to eat a horse".
+
 62 Heelwright's greatest desire is to make some notable archaeological discovery during his lifetime.
+
 63 WEAPON CLUE (Two parts)
 I "Well,_ me down!"
+
 64 The carriage driver is not the Chameleon.
+
 65 A broken piece of oar was found floating near the Southern Star.
+
 66 MOTIVE CLUE (Four Parts)
 ll True or __ ?
 IV Discs played on a gramophone.
+
 67 No clue.
+
 68 Carriage driver Newton Jennings was in the employ of Professor Moriarty.
+
 69 GENERAL KILLER AND MOTIVE CLUE
 He had them do his dirty work.
+
 70 WEAPON CLUE (Three Parts)
 I To vote into office.
+
 71 WEAPON CLUE (Three Parts)
 I Used by painters.
+
 72 Rita Frawley and Walter Ostermann occasionally spent nights together at the Hotel.
+
 73 The hunk of candle found by Holmes was from a heavy decorated candle approximately 3 kilograms (six pounds) in weight. It's safe to assume that a man taking a candle for the purpose of lighting his way, would use a much smaller candle.
+
 74 Whereabouts clue at the Bank.
+
 75 Alfred Wadsworth needed money to marry Florence Catlett.
+
 76 GENERAL MOTIVE CLUE
 You can't judge a book by its cover.
+
 77 Bevin Radcliffe and Mrs Chamberlain were having an affair.
+
 78 No clue.
+
 79 Yew leaves produce a poison which does not work immediately.
+
 80 Manfred Maloney had documents relating to Donald Hobson's disgraceful past.
+
 81 MOTIVE CLUE (Four Parts)
 Ill Expression of disgust.
+
 82 KILLER CLUE (Four Parts)
 I Too much shouting results in an equine animal!
 Ill You never fetch this sort of cot
+
 83 The victims' stab wounds are made by a thin rapier like blade.
+
 84 BURNED BODY CLUE
 Gateway to fish market.
+
 85 Holmes discovered, from her personal papers, that Melanie Blakes!ey's handwriting matched that of the
 anonymous benefactor.
+
 86 WHEREABOUTS CLUE (Three Parts)
 Ill Does a gravy_ float?
+
 87 Footprints at the stables show that the killer wore a size 12 shoe.
+
 88 Daniel Ferguson uses a shed behind the Tobacconist to hickory smoke certain blends.
+
 89 The translated message must be read backwards.
+
 90 The envelope brought by Wiggins was addressed thus: "Four Sherlock Holmes".
+
 91 CODE CLUE
 Each letter represents itself.
+
 92 Many paints such as titanium white are extremely poisonous
+
 93 KILLER CLUE (Two Parts)
 II An imperial unit of measure
+
 94 Colonel Sebastian Moran, an associate of the notorious Professor James Moriarty, ls of medium height, medium build and around forty years of age.
+
 95 The killer is a native of Africa.
+
 96 MOTIVE CLUE (Four Parts)
 Ill What shaped room did Lynne Reid Banks write about?
+
 97 MOTIVE CLUE FOR KILLING BURNED BODY (Two parts)
 I Pudding for April 1st.
+
 98 An autopsy of the giant rat has revealed the animal died from overeating.
+
 99 Norton Quimby believes the insured value of the Penguin was inordinately high.
+
 100 Thomas Jones and George Netter were seen drinking at the Boar's Head on Saturday afternoon. 101 The rooms above the Chemist are rented to Uriah Wiggins
+
 102 HIDING PLACE CLUE (Four Parts)
 I Short for Violet.
 IV If p's and q's, then presumably j's and_?
+
 103 KILLER CLUE (Two Parts)
 I Use oars.
+
 104 WEAPON CLUE (Two Parts)
 I Cyclops had only one of these.
+
 105 No clue.
+
 106 The floor of Silver Patch's stall contained some fresh black paint.
+
 107 The chemist recalls an Italian girl desperately seeking medical help for her sick mother.
+
 108 Jules Ridgely purchased some pills to help his severe case of vertigo.
+
 109 Three months ago Emmanuel Everley, a drinking friend of Niles MacFie's, was arrested attempting to pass forged bank notes.
+
 110 Holmes notices Brian O'Neill smokes cigarettes with two gold bands.
+
 111 Arthur Paisley visited Miss Pierpoint on the day of the murder.
+
 112 MOTIVE CLUE (Two Parts)
 II A Portion.
+
 113 Lampkin was killed by a sharp blow under the chin breaking his neck. The killer in fury then appears to have jumped on him breaking two ribs.
+
 114 Where a seated man will always cross his legs to catch a thrown object in his lap, a seated woman will
 usually spread her legs apart to catch the object in her skirt.
+
 115 The Duchess's daughter, Anastasia, did not like the strange preacher.
+
 116 Whereabouts and Weapon Clues at Bank.
+
 117 CODE CLUE
 J = R
+
 118 Holmes observes that a belt, found with Radcliffe's evening clothes, is not in the loops of the man's
 trousers.
+
 119 Holmes notices dust leaking from the bottom of Heelwright's suitcase.
+
 120 CAUSE OF DEATH CLUE (Five Parts)
 I It gets in your eyes, according to the song.
+
 121 The engraver was dead before the ventilator grating was removed.
+
 122 Burkhardt had told Kinney that Meacham confided in him that he believed the sinking of the Penguin had not been accidental.
+
 123 Both Rita Frawley and Patrick Reardon are left􀀆handed.
+
 124 COMPLETE KILLER CLUE
 Chef's offspring?
+
 125 No clue.
+
 126 HOLMES WHEREABOUTS CLUE (Two Parts)
 I Ancient fortification that separates Scotland and England
+
 127 MOTIVE CLUE (Two parts)
 I This stone celebrates 60 years.
+
 128 No clue.
+
 129 MOTIVE CLUE (Four parts)
 IV Rise in a muddle
+
 130 HIDING PLACE CLUE (Two Parts)
 II Dr Finlay's __ book.
+
 131 Near Scotland Yard are vacant premises with a deep cellar and boiler room. 132 JS Subkow takes little yellow pills regularly for a liver condition.
+
 133 KILLER CLUE (Two parts)
 I High ground.
+
 134 KILLER CLUE {Two Parts)
 I Something that produces an effect.
+
 135 Sir Alan Benchly and Harrison Hawksworth quarrelled recently.
+
 136 GENERAL WEAPON CLUE
 The Bible says that if you live by one, you'll die by one.
+
 137 COMPLETE WEAPON CLUE
 I A cylindrical tin container.
 II The opposite of sharp or bright.
+
 138 KILLER CLUE (Two Parts)
 I A room.
+
 139 There is no blood on the walking stick.
+
 140 BENEFACTOR MOTIVE CLUE (Four Parts)
 IV A tune is composed of many.
+
 141 No clue.
+
 142 The public exhibition of "The Naked Nymph" was cancelled at the last minute.
+
 143 CODE CLUE
 V=E
-144 "Although the proprietor on holiday be, where murder occurs is no problem to me." 145 LOCATION OF INVENTION CLUE (Two Parts)
+
+144 "Although the proprietor on holiday be, where murder occurs is no problem to me." 
+
+145 LOCATION OF INVENTION CLUE (Two Parts)
 I Adam's ale.
+
 146 Normally Gabriel Van Zandt is a strict grammarian.
+
 147 A kite and length of copper wire are found on the roof of the Hotel.
+
 148 MOTIVE CLUE (Four Parts)
 III Second word of Lord's Prayer.
+
 149 Daniel Ferguson is known to be a ladies man.
+
 150 Checking on known associates of Moriarty, Holmes discovers that cab driver Billings has been missing since the night of the fire.
+
 151 The largest shipment of gold ever to reach London will arrive later this month for storage in the Bank Vault.
+
 152 Arthur Hawksworth was not in his father's will.
+
 153 The Sumatra Bones were not in the packing cases when the cases arrived at the Museum.
+
 154 No clue.
+
 155 Holmes knew Lampkin was intensely secretive.
+
 156 MOTIVE CLUE (Two Parts)
 I OH is sometimes known as" ___ gold".
+
 157 John Strickland withdrew a large sum from his account on the day the survivors of the Penguin returned to
 England.
+
 158 SURPRISE CLUE (Three Parts)
 Ill Implement used to separate fine grains from coarse grains.
+
 159 Ridgeley was seen talking to Boris Crepnick in the Park the day before Ladder's death.
+
 160 MOTIVE CLUE (Four Parts)
 IV Comes to us all in the end.
+
 161 KILLER CLUE (Two Parts)
 lJ One of the most fashionable residential addresses m London 1s Park_
+
 162 Charles Barlow broke off his courtship of Nona van Zandt because of a Jack of funds.
+
 163 WHEREABOUTS CLUE {Three Parts)
 I Bass, trout and perch are_.
+
 164 Chemist, Arthur Paisley, supplied the pills at Miss Pierpoint's bedside.
+
 165 KILLER CLUE (Two Parts)
 I The opposite of front.
+
 166 No clue.
+
 167 The message tells where the Eyes of Lucifer are hidden.
+
 168 The Earl of Longworth is considered a foremost authority on the authenticity of original manuscripts.
+
 169 CODE CLUE
 Each word is divided in half.
+
 170 William Skottle, basically an honest man, had for some time been bothered by strong pangs of guilt.
+
 171 Mario Morelli's monkey knows how to use a slingshot.
+
 172 Lowell Quilley established an alibi.
+
 173 KILLER CLUE (Four Parts)
 II A rolling __ gathers no moss.
+
 174 J L Farlinger visited the Museum with a companion on the night of the theft and made a personal check of the security arrangements for his jewels.
+
 175 Fletcher Exworthy drank a great deal at the party and made several visits to the toilet in the bedroom.
+
 176 Bobby Jansen is now working at the Locksmiths.
+
 177 KILLER MOTIVE CLUE
 A very dark man.
+
 178 Holmes reasons that the killer is pursuing a vendetta. He has to find someone with a reason to hate middle aged doctors violently.
-The weapon and the courier's valise were thrown overboard. Boswell and Garrick are very similar in height, build and appearance. MOTIVE CLUES {Four Parts)
+
+179 The weapon and the courier's valise were thrown overboard. 
+
+180 Boswell and Garrick are very similar in height, build and appearance. 
+
+181 MOTIVE CLUES {Four Parts)
 I The answer sounds as if it will hit you like a __ of bricks!
 II Shell without sh.
+
 182 HIDING PLACE (Two Parts)
 I The plates are hidden in the hollow bottom ...... .
+
 183 Hillyard is short-sighted.
+
 184 CHAMELEON CLUE (Two Parts)
 II Winds that blow permanently east-west in southern seas for commerce.
+
 185 J L Farlinger, staying in town to be near his diamonds, is found in a drugged stupor on the morning of the
 theft.
+
 186 Prince Djamal was known to guard his sister's honour zealously.
+
 187 MOTIVE CLUE {Four Parts)
 IV To possess something.
+
 188 WEAPON CLUE (Three Parts)
 Ill Abel's brother.
+
 189 Leland Macfie has access to the bank's case reserves.
+
 190 MOTIVE CLUE (Four Parts)
 I Half of them.
+
 191 An original manuscript of Hamlet was stolen recently from an exhibition on the Riviera.
+
 192 Angus Burkhardt is due to receive his first mate's papers within the year.
+
 193 KILLER CLUE (Four Parts)
 _'s Well that ends Well
+
 194 Reading between the lines won't save Van Zandt's life; skipping words might.
+
 195 KILLER CLUE (Two Parts)
 II Entitled to feel cross.
+
 196 Archibald had no scholarly background in archaeology.
+
 197 WEAPON CLUE (Two Parts)
 I Mother sheep.
+
 198 WEAPON CLUE {Three Parts)
 Ill ls every cathedral town one?
+
 199 Housemaid Daphne Farber uses a particularly poisonous brand of cleaning fluid.
+
 200 MOTIVE CLUE (Two Parts)
 II What the mailman delivers to Americans.
+
 201 CODE CLUE
 Number the first half of the message 1-33, odd numbers only.
-202 X=C B=Y
+
+202 X = C, B = Y
+
 203 The daughter of an Italian act performing at the theatre is an extremely attractive dark haired girl.
+
 204 Most unusually, Lampkin was in a celebratory mood ln the Boar's Head the previous night and telling other
 customers he was in "transports of delight" over his latest invention.
+
 205 The murderer fired the killing shot from a distance.
+
 206 "If you've reasoned, gentle reader, I make my own key, you've solved, at last, who the killer will be."
+
 207 MOTIVE CLUE (Four Parts)
 II French, de; German, van; Italian, di; English,_.
 Ill Hero loses nought.
+
 208 CAUSE OF DEATH CLUE (Five Parts)
 Ill Secure a shot of heroin.
+
 209 Sir Reginald Cosgrove had a large insurance policy on his prize horse, Silver Patch.
+
 210 MOTIVE CLUE (Three Parts)
 JII Boy Scouts know how to pitch them.
+
 211 MOTIVE CLUE (Two Parts)
 I "Grown up".
+
 212 Victim clue at Tobacconist.
+
 213 KILLER CLUES (Three Parts)
 II Sir Henry __ is a famous sculptor.
 Ill Henry VIII divorced Katherine to marry_ Boleyn.
+
 214 MOTIVE CLUE {Three Parts)
 I Let's play hide and _.
+
 215 For years, Mandeville had unsuccessfully attempted to woo Princess Hartika.
-216 Luther Chamberlain had threatened his wife with a divorce and no financial settlement if she behaved
-indiscreetly.
+
+216 Luther Chamberlain had threatened his wife with a divorce and no financial settlement if she behaved indiscreetly.
+
 217 Holmes noticed a streak of rust between the thumb and forefinger of Captain Prescott's right hand.
+
 218 KILLER CLUE (Two Parts)
 I Not short.
-219 Mr Dunphy knows that he was not the sole benefactor of his wife's wilt. In fact Mrs Dunphy's will leaves
-most of her inheritance to charity.
+
+219 Mr Dunphy knows that he was not the sole benefactor of his wife's wilt. In fact Mrs Dunphy's will leaves most of her inheritance to charity.
+
 220 Elton Tobias is employed part-time at the Hotel.
+
 221 Lestrade was taking the Chameleon to a new prison, when the criminal escaped.
-222 Holmes suggests an autopsy which reveals that a broken neck was not the cause of Harrison Hawksworth's
-death.
+
+222 Holmes suggests an autopsy which reveals that a broken neck was not the cause of Harrison Hawksworth's death.
+
 223 There is a puncture the size of a pinhole at the base of the engraver's neck.
+
 224 Florence Catlett believed Miss Pierpoint wanted her to end up an old maid.
+
 225 No clue.
+
 226 KIDNAPPER CLUE (Three Parts)
 II A card game for four players.
+
 227 Grady Upjohn carries a sheath knife in his belt.
+
 228 The carpet in Thomas Jones' office contains two freshly cleaned spots. One of them has the slight smell of beer.
+
 229 CODE CLUE
 Number the second half of the message 2-34, even numbers only.
-230 At a board meeting scheduled for this afternoon, Mr Ostermann was to give a report on the Bank's profits. 231 Sunbeam is an aggressive character demanding quick returns on his investments.
+
+230 At a board meeting scheduled for this afternoon, Mr Ostermann was to give a report on the Bank's profits. 
+
+231 Sunbeam is an aggressive character demanding quick returns on his investments.
+
 232 CODE CLUE
 R = I
+
 233 A funeral attended by many members of the theatrical group was reported recently.
+
 234 WEAPON CLUE (Three Parts)
 Ill Not a "Gattie of Gear'' but a "􀉤- of beer''.
+
 235 Holmes notices that the stitching of Wolper's suitcase handle does not match the rest of the case.
+
 236 KILLER CLUE {Two Parts)
 I Kith and
+
 237 Niles MacFie is an accomplished 'character' actor.
+
 238 WEAPON CLUE {Two Parts)
 II The USSR emblem is the hammer and __
+
 239 WEAPON CLUE (Three Parts)
 II At home.
+
 240 Among Bessie Kidder's personal effects was a Liverpool to London railway ticket stub.
+
 241 Mrs Dunphy has a gardener named Winthrop Capp.
+
 242 Holmes analyses the beside pills, and finds them to be sleeping pills, not pain killers.
+
 243 KILLER CLUE (Two Parts)
 IJ Value.
+
 244 Stephen Pinter bought a gun the night the play opened.
+
 245 Knowing her past employment, Mrs Dorothy Madderley threatened to disinherit her son if his bride did not
 meet the strict moral code of the Madderley family.
+
 246 KILLER CLUE {Four Parts)
 I Expression used in golf to warn someone of an oncoming ball
 lll ___ in crime
+
 247 MASTERMIND CLUE {Two Parts)
 I The sort of soup you walk through on a foggy day!
+
 248 The soil between Scotland Yard and the Bank is composed of rich, black earth.
+
 249 Melanie Blakesley was Niles MacFie's girlfriend.
+
 250 Holmes has the fortune in his pocket.
+
 251 KIDNAPPER CLUE (Three Parts)
 Ill "let him who is without sin cast the first
+
 252 Important clue at Scotland Yard.
+
 253 WEAPON CLUE (Three Parts)
 Ill ___ Watchers Anonymous.
+
 254 SURPRISE CLUE {Three Parts)
 II Palestinian Liberation Organisation?
+
 255 Killer clue at Bank.
+
 256 The killer would need to get very close to the victim to kill in this fashion.
+
 257 CODE CLUE
-M = N
-0-= L
+M = N, 0-= L
+
 258 The first word of Van Zandt's real message is "Holmes".
+
 259 You got here just in time to stop Boris Crepnick from leaving the country.
+
 260 There are three diamonds in the Farlinger collection.
+
 261 Only one oar was found in the dinghy.
+
 262 Sir Reginald would never kill his prize horse, Silver Patch.
+
 263 The cause of death will never be located.
+
 264 Nathanial Stockport was convinced Mandeville's Sumatran exhibit would over-shadow his own
 contributions to the society.
+
 265 MOTIVE CLUE (Three Parts)
 I First half of the cox's repetitive cry to his rowers.
 II Strands that grow from the scalp.
+
 266 Professor Moriarty had associates inside Dartmoor Prison.
+
 267 Alfred Cooke's real name is Donald Hobson.
+
 268 Dennis Sculley has a collection of ancient spears.
+
 269 WHEREABOUTS OF PLANS CLUE {Four Parts)
 IV Your neck bone's connected to your __ bone!
+
 270 Heelwright's malaria was cutting his expedition short.
-271 Mrs Chamberlain showed her Theatre ticket stub to Inspector Gregson during questioning. 272 No clue.
+
+271 Mrs Chamberlain showed her Theatre ticket stub to Inspector Gregson during questioning. 
+
+272 No clue.
+
 273 Jonas Bailey was arrested at the Docks after the theft of the Teasdale diamonds.
+
 274 MOTIVE CLUE (Two Parts)
 II An Antarctic bird which appears formally dressed.
+
 275 MASTERMIND CLUE (Two Parts)
 II A corpse.
+
 276 KILLER CLUE (Two Parts)
 I Town in Cheshire selling things cheap.
+
 277 KILLER CLUE {Two Parts)
 I Ancient British king.
+
 278 WHEREABOUTS OF PLANS CLUE {Four Parts)
 I In prison, looking out.
+
 279 Gabriel Van Zandt's hobby is codes.
+
 280 The Bishop of Whittenfroth was in attendance at the Theatre the night of the murder.
+
 281 "A killer seeking vengeance silently roams, the intended victim is Sherlock Holmes".
+
 282 KILLER CLUE (Two Parts)
 II The opposite of woman.
+
 283 When visiting Robart's house to interview him, Holmes notices the surprising degree of opulence in which
 he lives.
+
 284 CAUSE OF DEATH CLUE (Five Parts)
 IV The reverse of ai.
+
 285 FORTUNE CLUE (Two Parts)
 I Not medium or well done.
+
 286 There is a KILLER CLUE at the Newspaper shop.
+
 287 Holmes is aware Wolper has worked for the fiendish Professor Moriarty.
+
 288 WEAPON CLUE (Two Parts)
 II They fall in autumn.
+
 289 Some fresh silver paint was found on the stall floor of Night Dancer, another of Sir Reginald's horses.
+
 290 Elston Macfie requires regular prescriptions of quinine for malaria.
+
 291 Arthur Kendrick smokes Turkish cigars.
+
 292 WHEREABOUTS CLUE (Three Parts)
 II" __ a ong of ixpence".
+
 293 Mrs Dunphy often argued with her husband about the way he squandered her money.
+
 294 Boswell had recently started an affair with another actress.
+
 295 No clue.
+
 296 KILLER CLUE (Two Parts)
 II Gipsy Rose?
+
 297 MOTIVE CLUE (Two Parts)
 II Not a mistress whole.
+
 298 HIDING PLACE CLUE {Two Parts)
 J Would you pack suits in a __ case?
+
 299 The killer must have access to and be familiar with handling knives.
+
 300 Austin Kitchener was seen in the Park in the evening of the murder.
+
 301 Actress Erin Mccann is starring in the current production of "The Taming of the Shrew".
+
 302 WEAPON CLUE (Two Parts)
 II Indians peacefully smoke it.
+
 303 Stephen Pinter knew of the affair between Boswell and his wife.
+
 304 No clue.
+
 305 A vast diamond field has been discovered near Miss Pierpoint's worthless gold mine.
+
 306 WEAPON CLUE (Two Parts)
 JI Painful twist of a joint.
+
 307 The message contains three words.
+
 308 Item on the Sumatran animal feed bill; one pound of red pepper. 309 WEAPON CLUE (Three Parts)
 II If at first you don't succeed ...... ?
+
 310 Each word of the answer has an even number of letters.
+
 311 KILLER CLUE (Three Parts)
 I Nutty centre.
+
 312 No clue.
+
 313 No clue.
+
 314 Wolper recently exchanged a large trunk for the leather case with a stitched handle.
+
 315 MOTIVE CLUE {Four Parts)
 II The sound a bee makes.
+
 316 KILLER CLUE {Two Parts)
 I He did not take a very Christian view of Captain Bligh; or did he?
+
 317 Van Zandt's real message to Holmes contains thirteen words.
+
 318 Harrison Hawksworth had lent Sir Alan Benchly a great deal of money without formal papers ever having
 been drawn.
+
 319 THIEF CLUE (Two Parts)
 II These brothers made the first powered flight.
+
 320 Call at the Park.
+
 321 George Netter had a new house key made on Monday.
+
 322 BENEFACTOR MOTIVE CLUE (Four Parts)
 Ill To solve this will be no mean
+
 323 Holmes noticed that Mrs Dunphy was wearing no wedding ring; nor was there a ring mark on any of her
 fingers.
+
 324 The killer must be able to approach each victim closely without arousing suspicion.
+
 325 MOTIVE CLUE
 large pygmy married twice.
+
 326 In the photograph, Maloney is smoking his pipe with his left hand.
+
 327 GENERAL WEAPON CLUE
 The marks on Radcliffe's neck appear to be caused by some sort of leather strap.
+
 328 KIDNAPPER CLUE (Three Parts)
 I A nadder is now called adder.
+
 329 KILLER CLUE (Two Parts)
 II Part of the body that wears a cap.
+
 330 Lampkin has recently been warning cab drivers that their "days are numbered".
+
 331 MOTIVE CLUE (Four Parts)
 II A furnace sometimes used by a blacksmith.
+
 332 Like Holmes, Moriarty is a master of disguise.
+
 333 GENERALCLUE
 The Chameleon expects to see Holmes high strung.
+
 334 BENEFACTOR MOTIVE CLUE (Four Parts)
 I The Khyber is a famous ___ .
+
 335 KILLER CLUE (Two Parts)
 I A doorbell might have this written on it.
+
 336 The leaping Horse, Petworth Park, and the Third of May, 1808, are all famous paintings. 337 WEAPON CLUE {Two Parts)
 I Haves (Anagram)
+
 338 CAUSE OF DEATH CLUE {Five Parts)
 V To avoid conspicuously.
+
 339 An elderly gentleman has recently been taking unhealthy interest in the show girls at the theatre.
+
 340 There were air holes drllled into one of the packing crates that Peabody brought back from Africa.
+
 341 Meacham made enquiries at Lloyds on the morning of his death.
+
 342 A woman who lives above the Newspaper Shop says she saw three or four men get out of a private carriage
 in the back alley last Saturday afternoon.
+
 343 No clue.
+
 344 Ann Whiston's husband is a fisherman.
+
 345 KILLER CLUE (Two Parts)
 II Theme lacking the.
+
 346 MOTIVE CLUE (Three Parts)
 I Another name for Tavern.
 Ill Insects in restless people's underwear.
+
 347 The message contains six words.
+
 348 WHEREABOUTS OF PLANS CLUE (Four Parts)
 II Source of light.
+
 349 No due.
+
 350 MOTIVE CLUE (Three Parts)
 II Retired abbreviated.
+
 351 The victim had a handsome tan, peculiar in London.
+
 352 The packing cases did not come open in the crash; nor were they tampered with.
+
 353 A week ago, Terrance Van Zandt purchased tickets for a clipper leaving today.
+
 354 KILLER CLUE (Four Parts)
 Ill Completed; finished.
+
 355 "The Pawnbroker's door will be rigged up just so, a well-honed tree feller delivers the blow." 356 Lawyer James Pushkin is an authority on rare coins and stamps.
+
 357 CODE CLUE
 K=P
+
 358 KILLER CLUE
 II Scottish town.
+
 359 Holmes knows that any person actually involved in the Erse Kernes would use the old Gaelic spelling of
 Ireland- ERIU- instead of ERIN.
+
 360 WEAPON CLUE (Three Parts)
 I Crime doesn't_
+
 361 One of the outstanding features of Cripton Manor is the impressive driveway lined with Yew trees.
+
 362 CODE CLUE
 Z=A
-363 Holmes reasons that a petty thief such as Wolper would not be capable of breaking the Museum security
-without help.
+
+363 Holmes reasons that a petty thief such as Wolper would not be capable of breaking the Museum security without help.
+
 364 Artist Fletcher Exworthy regarded his painting, "The Naked Nymph" as his masterpiece.
+
 365 The pawnbroker's ticket at the scene of the crime belonged to Sir Reginald Cosgrove.
+
 366 Holmes examination of the ground reveals spots of oil leading across the quayside and a similar spot on
 Lampkin's jacket.
+
 367 Skottle's firm had been falsifying records to conceal the company's continuing worsening financial situation.
+
 368 The strength required to strangle Radcliffe is beyond that of the average woman. 369 WEAPON CLUE (Three Parts)
 II The sound made by a contented cat.
+
 370 Gill Bennett considered Bowell's run•of􀂺play contract financially disastrous.
+
 371 The clothes of the three victims had a dank smell, not unlike that found in cellar. 372 MOTIVE CLUE {Four Parts)
 I Son or daughter.
+
 373 CODE CLUE
 The message is written in two equal halves.
+
 374 WEAPON CLUE (Three Parts)
 I Something painful or tender is __ .
+
 375 Holmes has certainly taken to disguise to pursue his enquiries.
+
 376 KILLER CLUE (Two Parts)
 A swine or glutton.
+
 377 Holmes remarks Dr Watson might suitably entitle this adventure "The Sign of the Fourth."
+
 378 MOTIVE CLUE (Two Parts)
 II It isn't very funny when you bang your funny __ .
+
 379 Stirling Ballard has lost a great deal of money in the stock market.
+
 380 Raphaela Dorian hoped to marry Captain Lightfoot.
+
 381 FORTUNE CLUE (Two Parts)
 II Necessary to post letter.
+
 382 No clue.
+
 383 Harrison Hawksworth and Lady Mitsford were having an affair.
+
 384 The Bishop of Whittenfroth smokes German-made cigarettes.
+
 385 MOTIVE CLUE (Four Parts)
 I Short Avenue.
+
 386 KILLER CLUE {Two Parts)
 I The opposite of poor.
+
 387 Enquiries in Liverpool reveal that Bessie Kidder was known as Mrs Ferguson.
+
 388 As soldiers some years ago, Manfred Maloney and Donald Hobson were stationed together in Ireland. 389 BENEFACTOR MOTIVE CLUE (Four Parts)
 II A shop assistant traditionally serves at a
+
 390 Although there was the smelt of beer on Skottle's lips, a coroner's report showed no alcohol in his
 bloodstream.
+
 391 Killer clue at Park.
+
 392 MOTIVE CLUE (Four Parts)
 I As many as the __ in the heavens.
+
 393 WEAPON CLUE (Three Parts)
 I When you have no money you are flat
 II An egg layer dropping her H's
+
 394 Weapon clue at Bank.
+
 395 The eyes of Lucifer were too "hot" for Hickel to dispose of. He still had the precious pearls in his possession
 when he died.
+
 396 HIDING PLACE {Two Parts)
 II .......... of a Museum display case.
+
 397 MOTIVE CLUE {Four Parts)
 I Bucket for carrying coal.
+
 398 While Mrs Dunphy disdained all social activities, Mr Dunphy yearned for a more active night life.
+
 399 Lord Mitsford publicly threatened Harrison Hawksworth.
+
 400 WEAPON CLUE (Two Parts)
 I A jungle creature who likes bananas.
+
 401 Boswell once jilted Cliff Mountjoy's daughter.
+
 402 The victim was hit on the head from behind.
+
 403 Uriah Wiggins was once denied a loan at Van Zandt's bank,
+
 404 No clue.
-405 If change was found under the cab's seat cushions, one of Radcliffe's passengers must have been a man. 406 While stationed in Ireland, Donald Hobson was dishonourably discharged from the Army for illegal
+
+405 If change was found under the cab's seat cushions, one of Radcliffe's passengers must have been a man. 
+
+406 While stationed in Ireland, Donald Hobson was dishonourably discharged from the Army for illegal
 mistreatment of civilians.
+
 407 Mandeville led a leopard hunt in which one of Prince Djamal's servants was mauled to death.
+
 408 Ann Whiston has worked as a governess and nanny for nearly twenty years.
+
 409 KILLER AND BENEFACTOR CLUE:
 Only one person gained real financial benefit from the operation, other than the Locksmith.
+
 410 No clue.
+
 411 Performing at the theatre is an Italian family specialising in a knife throwing act, the grand finale of the
 programme.
+
 412 CAUSE OF DEATH CLUE (Five Parts)
 II The cockney for has.
+
 413 LOCATION OF INVENTION CLUE (Two Parts)
 I Where ships safely anchor.
+
 414 MOTIVE CLUE (Two Parts)
 I Wrecked, ruined.
+
 415 Wolper was aware he was being followed by Cabman Renan Billings.
+
 416 SURPRISE CLUE (Three Parts)
-I No __ pense spared.
+I No __pense spared.
+
 417 MOTIVE CLUE (Four Parts)
 I Start without the Saint.
+
 418 Interpose the letters (in numerical sequence) to obtain message.
+
 419 COMPLETE METHOD OF REMOVAL
 The Plates were carried up the air shaft in human hands.
+
 420 MOTIVE CLUE {Two Parts)
 II Do gold and coal come from an explosive device belonging to me?
+
 421 The attendant remembers Olivia Gregory and de la Pole visiting the Museum together Monday afternoon;
 but when questioned closely is certain that they did not leave together.
+
 422 Mrs Hibbert much resented her younger brother's rapid acquisition of wealth since emigrating, whilst she
 struggled to make ends meet at the Newsagents. She is now in poor health.
+
 423 The wound suggests he was struck by something round, hard, yet fairly small.
+
 424 Bullock's missing left eye is made of hollow glass; inside is the magnificent diamond he and his accomplices
 had smuggled out of the Diamond Mine.
+
 425 Holmes located a cabbie who had driven three bedraggled students from Grantchester the previous
 afternoon. ''They looked the worse for drink. One of them couldn't even stand up!"
+
 426 The blow which killed Edna Burridge was delivered to the back of the head, but she was found lying on her
+
 427 MOTIVE CLUE
 Sir Richard Grenville's ship returns to sett!e old score.
+
 428 WEAPON CLUE
 Fishy nose.
+
 429 The Major had taken out a court order to have Metherell's zoo closed as a health ha2ard.
-430 An old China hand, "Sharkey" Wilson got his nickname through his unusual liking for Shark's Fin soup. 431 Winchester was absent from work last week, due to illness. Winchester confesses to Holmes that he had
+
+430 An old China hand, "Sharkey" Wilson got his nickname through his unusual liking for Shark's Fin soup. 
+
+431 Winchester was absent from work last week, due to illness. Winchester confesses to Holmes that he had
 actually arranged interviews with other banks in the hope of obtaining a more senior position.
+
 432 The Bank is well aware of the poor state of Sotheby's finances.
+
 433 KILLER CLUE {Four Parts)
 Ill Legendary chivalrous person from Sherwood Forest (second name only).
 IV Human offspring (plural).
-434 Richards and Newell were seen drinking and talking earnestly in the Boar's Head later in the evening of
-Gregory's death, and eventually left together.
+
+434 Richards and Newell were seen drinking and talking earnestly in the Boar's Head later in the evening of Gregory's death, and eventually left together.
+
 435 KILLER CLUE (Three Parts)
 I Post script initially, followed by churchyard tree whose wood made long bows.
+
 436 Darnly Butterfield is known to his friends as "Butters."
+
 437 KILLER CLUE (Two Parts)
 I Noise a cat makes.
+
 438 Angela and Maisie Fortescue say they heard a loud bang when collecting mis-hit balls from the edge of the
 tennis lawn.
+
 439 "A lascar ... that is an Oriental seaman, is it not?"
 "Actually Holmes, it is Indian army slang for 'an inferior artillery man.'"
+
 440 Enquiries reveal that a dark swarthy man has been asking about sailing to South Africa. He is believed to
 have lodgings near the Newsagents.
+
 441 Meadows' small circle of friends are all fellow bell ringers; Derek Camp the Chemist; Jeremy Stubbs the
 Tobacconist; Rodney Prior, police sergeant; Nigel Darby, curator at the Museum; Andrew Pratt, Newsagent; and John Orchard, Park Keeper.
+
 442 "look, Watson do you see? There - by the pond weed!"
 "Good grief, it looks like a finger, Holmes!"
+
 443 Templar, Winchester and Huxley were all interviewed recently for promotion, in the Bank Manager's office,
 on the Friday before last.
+
 444 WHEREABOUTS CLUE (Two Parts)
 I His nose was a fowl affair.
+
 445 METHOD CLUE (Four Parts)
 I Smoke goes up a chimney __ _
 II Past tense of 'throw'
+
 446 Edna Burridge's room is immediately below the roofline of the building in which she lived.
 447 At Grantchester we discovered a punt moored and almost concealed by branches and rushes.
 448 The boomerang struck Lincoln's neck at quite an acute downward angle. A boomerang does not achieve
