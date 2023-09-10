@@ -23,7 +23,6 @@ html {
 }
 
 body {
-    margin: 0px;
     min-height: 100vh;
 	height: 100vh;
 	color: black;

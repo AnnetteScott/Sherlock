@@ -4857,7 +4857,7 @@ export default {
 	"984": {
 		"type": "",
 		"partTotal": 0,
-		"message": "?? There wasn't anything in the book. It skipped this one."
+		"message": "(Continued from Hotel) 'So if a jacket were buttoned up, it would hide those items? 'Of course,' 'What if the buttoned up jacket hid the absence of one of those items?'"
 	},
 	"985": {
 		"type": "",

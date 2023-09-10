@@ -1,5 +1,7 @@
+export type Locations = "CHEMIST" | "BANK" | "CARRIAGE DEPOT" | "DOCKS" | "HOTEL" | "LOCKSMITH" | "MUSEUM" | "NEWSAGENT" | "PARK" | "PAWNBROKER" | "THEATRE" | "BOAR'S HEAD" | "SCOTLAND YARD" | "TOBACCONIST";
+
 export default {
-	1: {
+	"1": {
 		location: {
 			"CHEMIST":         3,
 			"BANK":            28,
@@ -22,7 +24,7 @@ export default {
 			c: ""
 		}	
 	},
-	2: {
+	"2": {
 		location: {
 			"CHEMIST":         106,
 			"BANK":            209,
@@ -45,7 +47,7 @@ export default {
 			c: ""
 		}	
 	},
-	3: {
+	"3": {
 		location: {
 			"CHEMIST":         128,
 			"BANK":            158,
@@ -68,7 +70,7 @@ export default {
 			c: ""
 		}	
 	},
-	4: {
+	"4": {
 		location: {
 			"CHEMIST":         207,
 			"BANK":            6,
@@ -91,7 +93,7 @@ export default {
 			c: ""
 		}	
 	},
-	5: {
+	"5": {
 		location: {
 			"CHEMIST":         96,
 			"BANK":            230,
@@ -114,7 +116,7 @@ export default {
 			c: ""
 		}	
 	},
-	6: {
+	"6": {
 		location: {
 			"CHEMIST":         10,
 			"BANK":            31,
@@ -137,7 +139,7 @@ export default {
 			c: ""
 		}	
 	},
-	7: {
+	"7": {
 		location: {
 			"CHEMIST":         108,
 			"BANK":            198,
@@ -160,7 +162,7 @@ export default {
 			c: ""
 		}	
 	},
-	8: {
+	"8": {
 		location: {
 			"CHEMIST":         63,
 			"BANK":            121,
@@ -185,7 +187,7 @@ export default {
 			e: ""
 		}	
 	},
-	9: {
+	"9": {
 		location: {
 			"CHEMIST":         132,
 			"BANK":            12,
@@ -207,7 +209,7 @@ export default {
 			b: ""
 		}	
 	},
-	10: {
+	"10": {
 		location: {
 			"CHEMIST":         4,
 			"BANK":            151,
@@ -230,4 +232,9 @@ export default {
 			c: ""
 		}	
 	},
+} as {
+	[key: string]: {
+		location: {[name in Locations]: number},
+		answers: {[letter: string]: string}
+	}
 }
