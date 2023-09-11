@@ -112,7 +112,8 @@ export default defineComponent({
 				return;
 			}
 			let length = Math.max(parseInt(((clues[this.clueNum].message.length - 40) / 10).toString()), 0)
-			this.viewTime = Math.min(30 + length, 60)
+			this.viewTime = Math.min(30 + length, 60);
+			this.timeLeft = '00:' + this.viewTime;
 
 			this.view = true;
 			this.startTimer();
