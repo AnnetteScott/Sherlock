@@ -150,7 +150,7 @@ export default defineComponent({
 	watch: {
 		view(){
 			if(this.view){
-				window.history.pushState(undefined, '', 'clue');
+				window.history.pushState(undefined, '', '');
 			}
 		}
 	}
