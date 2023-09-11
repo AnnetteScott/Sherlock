@@ -472,7 +472,7 @@ export default {
 	"94": {
 		"type": "",
 		"partTotal": 0,
-		"message": "Colonel Sebastian Moran, an associate of the notorious Professor James Moriarty, ls of medium height, medium build and around forty years of age."
+		"message": "Colonel Sebastian Moran, an associate of the notorious Professor James Moriarty, Is of medium height, medium build and around forty years of age."
 	},
 	"95": {
 		"type": "",
@@ -502,7 +502,12 @@ export default {
 	"100": {
 		"type": "",
 		"partTotal": 0,
-		"message": "Thomas Jones and George Netter were seen drinking at the Boar's Head on Saturday afternoon. 101 The rooms above the Chemist are rented to Uriah Wiggins"
+		"message": "Thomas Jones and George Netter were seen drinking at the Boar's Head on Saturday afternoon."
+	},
+	"101": {
+		"type": "",
+		"partTotal": 0,
+		"message": "The rooms above the Chemist are rented to Uriah Wiggins."
 	},
 	"102": {
 		"type": "HIDING PLACE CLUE",
@@ -982,7 +987,7 @@ export default {
 	"198": {
 		"type": "WEAPON CLUE",
 		"partTotal": 3,
-		"message": "Ill ls every cathedral town one?\n"
+		"message": "III ls every cathedral town one?\n"
 	},
 	"199": {
 		"type": "",
@@ -1207,7 +1212,7 @@ export default {
 	"243": {
 		"type": "KILLER CLUE",
 		"partTotal": 2,
-		"message": "IJ Value.\n"
+		"message": "II Value.\n"
 	},
 	"244": {
 		"type": "",
@@ -1650,7 +1655,7 @@ export default {
 		"message": "Like Holmes, Moriarty is a master of disguise."
 	},
 	"333": {
-		"type": "GENERALCLUE",
+		"type": "GENERAL CLUE",
 		"partTotal": 0,
 		"message": "The Chameleon expects to see Holmes high strung.\n"
 	},
@@ -2757,7 +2762,7 @@ export default {
 	"556": {
 		"type": "WEAPON CLUE",
 		"partTotal": 3,
-		"message": "I Not tight.\nIll Piece of rock weighing 141bs.\n"
+		"message": "I Not tight.\nIII Piece of rock weighing 141bs.\n"
 	},
 	"557": {
 		"type": "",

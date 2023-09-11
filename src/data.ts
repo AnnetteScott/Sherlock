@@ -229,7 +229,7 @@ Each letter represents itself.
 93 KILLER CLUE (Two Parts)
 II An imperial unit of measure
 
-94 Colonel Sebastian Moran, an associate of the notorious Professor James Moriarty, ls of medium height, medium build and around forty years of age.
+94 Colonel Sebastian Moran, an associate of the notorious Professor James Moriarty, is of medium height, medium build and around forty years of age.
 
 95 The killer is a native of Africa.
 
@@ -243,7 +243,9 @@ I Pudding for April 1st.
 
 99 Norton Quimby believes the insured value of the Penguin was inordinately high.
 
-100 Thomas Jones and George Netter were seen drinking at the Boar's Head on Saturday afternoon. 101 The rooms above the Chemist are rented to Uriah Wiggins
+100 Thomas Jones and George Netter were seen drinking at the Boar's Head on Saturday afternoon.
+
+101 The rooms above the Chemist are rented to Uriah Wiggins.
 
 102 HIDING PLACE CLUE (Four Parts)
 I Short for Violet.
@@ -478,7 +480,7 @@ II Entitled to feel cross.
 I Mother sheep.
 
 198 WEAPON CLUE (Three Parts)
-Ill ls every cathedral town one?
+III Is every cathedral town one?
 
 199 Housemaid Daphne Farber uses a particularly poisonous brand of cleaning fluid.
 
@@ -802,7 +804,7 @@ II A furnace sometimes used by a blacksmith.
 
 332 Like Holmes, Moriarty is a master of disguise.
 
-333 GENERALCLUE
+333 GENERAL CLUE
 The Chameleon expects to see Holmes high strung.
 
 334 BENEFACTOR MOTIVE CLUE (Four Parts)
@@ -1334,7 +1336,7 @@ Jewellers where he worked.
 
 556 WEAPON CLUE (Three Parts)
 I Not tight.
-Ill Piece of rock weighing 141bs.
+III Piece of rock weighing 141bs.
 
 557 Templar, Winchester and Huxley sit at identical desks next to each other. Winchester is the senior of the three whilst Huxley is some years younger than Templar.
 

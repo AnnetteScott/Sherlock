@@ -7,6 +7,7 @@ import MainPage from './MainPage.vue'
 </template>
 
 <style>
+@import url('https://fonts.googleapis.com/css2?family=Manrope&family=Noto+Sans+Sogdian&display=swap');
 *,
 *::before,
 *::after {
@@ -14,6 +15,7 @@ import MainPage from './MainPage.vue'
 	box-sizing: border-box !important;
 	margin: 0;
 	font-weight: normal;
+	font-size: 1.2rem;
 }
 
 html {
@@ -35,7 +37,7 @@ body {
 	transition: color 0.5s, background-color 0.5s;
 	display: flex;
 	flex-direction: column;
-    align-items: flex-end;
+	align-items: center;
 	overflow: hidden;
 }
 
