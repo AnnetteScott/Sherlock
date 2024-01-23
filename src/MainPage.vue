@@ -1,6 +1,6 @@
 <script lang="ts">
 import { defineComponent } from 'vue';
-import clues, { Clue } from './clues'
+import clues, { Clue } from './bad/clues'
 import info from './data'
 
 
@@ -12,7 +12,7 @@ export default defineComponent({
 			clueNum: null as number | null,
 			view: false,
 			timeLeft: '',
-			viewTime: 30,
+			viewTime: 40,
 			interval: 0,
 			timeOut: 0
 		};
@@ -112,7 +112,7 @@ export default defineComponent({
 				return;
 			}
 			let length = Math.max(parseInt(((clues[this.clueNum].message.length - 40) / 10).toString()), 0)
-			this.viewTime = Math.min(30 + length, 60);
+			this.viewTime = Math.min(40 + length, 60);
 			this.timeLeft = '00:' + this.viewTime;
 
 			this.view = true;
@@ -124,8 +124,8 @@ export default defineComponent({
 			
 		},
 		startTimer() {
-			let timer = this.viewTime - 1, minutes, seconds;
-			this.interval = setInterval(() => {
+			//let timer = this.viewTime - 1, minutes, seconds;
+			/* this.interval = setInterval(() => {
 				minutes = parseInt((timer / 60).toString(), 10);
 				seconds = parseInt((timer % 60).toString(), 10);
 
@@ -137,7 +137,7 @@ export default defineComponent({
 				if (--timer < 0) {
 					timer = 43;
 				}
-			}, 1000);
+			}, 1000); */
 		},
 		clear(){
 			this.clueNum = null
@@ -176,8 +176,10 @@ export default defineComponent({
 				<span v-if="clues[clueNum].partTotal != 0"> ({{ clues[clueNum].partTotal }} Parts)</span>
 			</p>
 			<p v-if="clues[clueNum].partTotal != 0" style="text-align: center;">
-				<span id="message_part">{{ clues[clueNum].message.split(" ")[0] }}</span>&nbsp;
-				<span>{{ clues[clueNum].message.substring(clues[clueNum].message.indexOf(" ") + 1) }}</span>
+				<span v-for="parts of clues[clueNum].message.split('\n')">
+					<span id="message_part">{{ parts.split(" ")[0] }}</span>&nbsp;
+					<span>{{ parts.substring(parts.indexOf(" ") + 1) }}</span>
+				</span>
 			</p>
 			<p v-if="clues[clueNum].partTotal === 0" style="text-align: center;">{{ clues[clueNum].message }}</p>
 		</div>
@@ -237,6 +239,7 @@ button{
 }
 
 #message_part {
+	font-weight: bolder;
 	font-family: 'Manrope', sans-serif;
 	font-family: 'Noto Sans Sogdian', sans-serif;
 }

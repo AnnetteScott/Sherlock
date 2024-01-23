@@ -27,12 +27,12 @@ export default {
 	"4": {
 		"type": "MOTIVE CLUE",
 		"partTotal": 4,
-		"message": "III Tea for how many?\nIV Tilt an aircraft to save money.\n"
+		"message": "III Tea for how many?\nIV Tilt an aircraft to save money."
 	},
 	"5": {
 		"type": "HIDING PLACE CLUE",
 		"partTotal": 4,
-		"message": "II '_ for the wings of a dove?'\nIII Reverse of NIL.\n"
+		"message": "II '_ for the wings of a dove?'\nIII Reverse of NIL."
 	},
 	"6": {
 		"type": "",
@@ -42,7 +42,7 @@ export default {
 	"7": {
 		"type": "MOTIVE CLUE",
 		"partTotal": 3,
-		"message": "III Chemical recipe.\n"
+		"message": "III Chemical recipe."
 	},
 	"8": {
 		"type": "",
@@ -57,7 +57,7 @@ export default {
 	"10": {
 		"type": "MOTIVE CLUE",
 		"partTotal": 2,
-		"message": "I The sincerest form off flattery.\nII Prudence Madderley was the model for a scandalous painting by Fletcher Exworthy.\n"
+		"message": "I The sincerest form off flattery.\nII Prudence Madderley was the model for a scandalous painting by Fletcher Exworthy."
 	},
 	"12": {
 		"type": "",
@@ -77,7 +77,7 @@ export default {
 	"15": {
 		"type": "MOTIVE CLUE",
 		"partTotal": 3,
-		"message": "II Another word for positive or certain.\n"
+		"message": "II Another word for positive or certain."
 	},
 	"16": {
 		"type": "",
@@ -92,12 +92,12 @@ export default {
 	"18": {
 		"type": "KILLER CLUE",
 		"partTotal": 4,
-		"message": "IV A famous giant said '_, fi, fo, fum'.\n"
+		"message": "IV A famous giant said '_, fi, fo, fum'."
 	},
 	"19": {
 		"type": "MOTIVE CLUE FOR KILLING BURNED BODY",
 		"partTotal": 2,
-		"message": "II Head of University department for studies in evil?\n"
+		"message": "II Head of University department for studies in evil?"
 	},
 	"20": {
 		"type": "",
@@ -112,17 +112,17 @@ export default {
 	"22": {
 		"type": "MOTIVE CLUE",
 		"partTotal": 4,
-		"message": "II Stone __ is a prehistoric circle on Salisbury Plain.\n"
+		"message": "II Stone __ is a prehistoric circle on Salisbury Plain."
 	},
 	"23": {
 		"type": "CODE CLUE",
 		"partTotal": 0,
-		"message": "W = D\n"
+		"message": "W = D"
 	},
 	"24": {
 		"type": "WEAPON CLUE",
 		"partTotal": 3,
-		"message": "II Loud noise in which Di no longer can think properly.\n"
+		"message": "II Loud noise in which Di no longer can think properly."
 	},
 	"25": {
 		"type": "",
@@ -132,7 +132,7 @@ export default {
 	"26": {
 		"type": "THIEF CLUE",
 		"partTotal": 2,
-		"message": "I A part of the foot.\n"
+		"message": "I A part of the foot."
 	},
 	"27": {
 		"type": "",
@@ -152,7 +152,7 @@ export default {
 	"30": {
 		"type": "WHEREABOUTS OF PLANS CLUE",
 		"partTotal": 4,
-		"message": "III Family, relatives and kith.\n"
+		"message": "III Family, relatives and kith."
 	},
 	"31": {
 		"type": "",
@@ -167,7 +167,7 @@ export default {
 	"33": {
 		"type": "WEAPON CLUE",
 		"partTotal": 2,
-		"message": "II B D F H J_.\n"
+		"message": "II B D F H J_."
 	},
 	"34": {
 		"type": "",
@@ -177,7 +177,7 @@ export default {
 	"35": {
 		"type": "KILLER CLUE",
 		"partTotal": 2,
-		"message": "II If US = WE, I = __.\n"
+		"message": "II If US = WE, I = __."
 	},
 	"36": {
 		"type": "",
@@ -192,7 +192,7 @@ export default {
 	"38": {
 		"type": "KILLER CLUE",
 		"partTotal": 4,
-		"message": "I Come first.\n"
+		"message": "I Come first."
 	},
 	"39": {
 		"type": "",
@@ -202,17 +202,17 @@ export default {
 	"40": {
 		"type": "KILLER CLUE",
 		"partTotal": 2,
-		"message": "II Baby's bed.\n"
+		"message": "II Baby's bed."
 	},
 	"41": {
 		"type": "MOTIVE CLUE",
 		"partTotal": 2,
-		"message": "II Ornaments are placed on a Christmas _____.\n"
+		"message": "II Ornaments are placed on a Christmas _____."
 	},
 	"42": {
 		"type": "KILLER CLUE",
 		"partTotal": 4,
-		"message": "II Approximately, more or __?\nIV Grow old naturally.\n"
+		"message": "II Approximately, more or __?\nIV Grow old naturally."
 	},
 	"43": {
 		"type": "",
@@ -222,7 +222,7 @@ export default {
 	"44": {
 		"type": "MOTIVE CLUE",
 		"partTotal": 4,
-		"message": "I Abbreviated century + over.\nII The opposite of down.\n"
+		"message": "I Abbreviated century + over.\nII The opposite of down."
 	},
 	"45": {
 		"type": "",
@@ -242,27 +242,27 @@ export default {
 	"48": {
 		"type": "GENERAL WEAPON CLUE",
 		"partTotal": 0,
-		"message": "The weapon is the water.\n"
+		"message": "The weapon is the water."
 	},
 	"49": {
 		"type": "CHAMELEON CLUE",
 		"partTotal": 2,
-		"message": "I little, ___ , least.\n"
+		"message": "I little, ___ , least."
 	},
 	"50": {
 		"type": "MOTIVE CLUE",
 		"partTotal": 4,
-		"message": "IV Ele__ary, my dear Watson.\n"
+		"message": "IV Ele__ary, my dear Watson."
 	},
 	"51": {
 		"type": "WEAPON CLUE",
 		"partTotal": 3,
-		"message": "III Cats lap it up.\n"
+		"message": "III Cats lap it up."
 	},
 	"52": {
 		"type": "KILLER CLUE",
 		"partTotal": 2,
-		"message": "II Group of orange trees.\n"
+		"message": "II Group of orange trees."
 	},
 	"53": {
 		"type": "",
@@ -272,12 +272,12 @@ export default {
 	"54": {
 		"type": "CODE CLUE",
 		"partTotal": 0,
-		"message": "H = S\n"
+		"message": "H = S"
 	},
 	"55": {
 		"type": "KILLER CLUE",
 		"partTotal": 2,
-		"message": "II Abbreviated name of famous London Hospital.\n"
+		"message": "II Abbreviated name of famous London Hospital."
 	},
 	"56": {
 		"type": "",
@@ -302,7 +302,7 @@ export default {
 	"60": {
 		"type": "HOLMES WHEREABOUTS CLUE",
 		"partTotal": 2,
-		"message": "II Not high cattle noise.\n"
+		"message": "II Not high cattle noise."
 	},
 	"61": {
 		"type": "",
@@ -317,7 +317,7 @@ export default {
 	"63": {
 		"type": "WEAPON CLUE",
 		"partTotal": 2,
-		"message": "I 'Well,_ me down!'\n"
+		"message": "I 'Well,_ me down!'"
 	},
 	"64": {
 		"type": "",
@@ -332,7 +332,7 @@ export default {
 	"66": {
 		"type": "MOTIVE CLUE",
 		"partTotal": 4,
-		"message": "III True or __ ?\nIV Discs played on a gramophone.\n"
+		"message": "III True or __ ?\nIV Discs played on a gramophone."
 	},
 	"67": {
 		"type": "",
@@ -347,17 +347,17 @@ export default {
 	"69": {
 		"type": "GENERAL KILLER AND MOTIVE CLUE",
 		"partTotal": 0,
-		"message": "He had them do his dirty work.\n"
+		"message": "He had them do his dirty work."
 	},
 	"70": {
 		"type": "WEAPON CLUE",
 		"partTotal": 3,
-		"message": "I To vote into office.\n"
+		"message": "I To vote into office."
 	},
 	"71": {
 		"type": "WEAPON CLUE",
 		"partTotal": 3,
-		"message": "I Used by painters.\n"
+		"message": "I Used by painters."
 	},
 	"72": {
 		"type": "",
@@ -382,7 +382,7 @@ export default {
 	"76": {
 		"type": "GENERAL MOTIVE CLUE",
 		"partTotal": 0,
-		"message": "You can't judge a book by its cover.\n"
+		"message": "You can't judge a book by its cover."
 	},
 	"77": {
 		"type": "",
@@ -407,12 +407,12 @@ export default {
 	"81": {
 		"type": "MOTIVE CLUE",
 		"partTotal": 4,
-		"message": "III Expression of disgust.\n"
+		"message": "III Expression of disgust."
 	},
 	"82": {
 		"type": "KILLER CLUE",
 		"partTotal": 4,
-		"message": "I Too much shouting results in an equine animal!\nIII You never fetch this sort of cot\n"
+		"message": "I Too much shouting results in an equine animal!\nIII You never fetch this sort of cot"
 	},
 	"83": {
 		"type": "",
@@ -422,7 +422,7 @@ export default {
 	"84": {
 		"type": "BURNED BODY CLUE",
 		"partTotal": 0,
-		"message": "Gateway to fish market.\n"
+		"message": "Gateway to fish market."
 	},
 	"85": {
 		"type": "",
@@ -432,7 +432,7 @@ export default {
 	"86": {
 		"type": "WHEREABOUTS CLUE",
 		"partTotal": 3,
-		"message": "III Does a gravy __ float?\n"
+		"message": "III Does a gravy __ float?"
 	},
 	"87": {
 		"type": "",
@@ -457,7 +457,7 @@ export default {
 	"91": {
 		"type": "CODE CLUE",
 		"partTotal": 0,
-		"message": "Each letter represents itself.\n"
+		"message": "Each letter represents itself."
 	},
 	"92": {
 		"type": "",
@@ -467,7 +467,7 @@ export default {
 	"93": {
 		"type": "KILLER CLUE",
 		"partTotal": 2,
-		"message": "II An imperial unit of measure\n"
+		"message": "II An imperial unit of measure"
 	},
 	"94": {
 		"type": "",
@@ -482,12 +482,12 @@ export default {
 	"96": {
 		"type": "MOTIVE CLUE",
 		"partTotal": 4,
-		"message": "III What shaped room did Lynne Reid Banks write about?\n"
+		"message": "III What shaped room did Lynne Reid Banks write about?"
 	},
 	"97": {
 		"type": "MOTIVE CLUE FOR KILLING BURNED BODY",
 		"partTotal": 2,
-		"message": "I Pudding for April 1st.\n"
+		"message": "I Pudding for April 1st."
 	},
 	"98": {
 		"type": "",
@@ -512,17 +512,17 @@ export default {
 	"102": {
 		"type": "HIDING PLACE CLUE",
 		"partTotal": 4,
-		"message": "I Short for Violet.\nIV If p's and q's, then presumably j's and _?\n"
+		"message": "I Short for Violet.\nIV If p's and q's, then presumably j's and _?"
 	},
 	"103": {
 		"type": "KILLER CLUE",
 		"partTotal": 2,
-		"message": "I Use oars.\n"
+		"message": "I Use oars."
 	},
 	"104": {
 		"type": "WEAPON CLUE",
 		"partTotal": 2,
-		"message": "I Cyclops had only one of these.\n"
+		"message": "I Cyclops had only one of these."
 	},
 	"105": {
 		"type": "",
@@ -562,7 +562,7 @@ export default {
 	"112": {
 		"type": "MOTIVE CLUE",
 		"partTotal": 2,
-		"message": "II A Portion.\n"
+		"message": "II A Portion."
 	},
 	"113": {
 		"type": "",
@@ -587,7 +587,7 @@ export default {
 	"117": {
 		"type": "CODE CLUE",
 		"partTotal": 0,
-		"message": "J = R\n"
+		"message": "J = R"
 	},
 	"118": {
 		"type": "",
@@ -602,7 +602,7 @@ export default {
 	"120": {
 		"type": "CAUSE OF DEATH CLUE",
 		"partTotal": 5,
-		"message": "I It gets in your eyes, according to the song.\n"
+		"message": "I It gets in your eyes, according to the song."
 	},
 	"121": {
 		"type": "",
@@ -622,7 +622,7 @@ export default {
 	"124": {
 		"type": "COMPLETE KILLER CLUE",
 		"partTotal": 0,
-		"message": "Chef's offspring?\n"
+		"message": "Chef's offspring?"
 	},
 	"125": {
 		"type": "",
@@ -632,12 +632,12 @@ export default {
 	"126": {
 		"type": "HOLMES WHEREABOUTS CLUE",
 		"partTotal": 2,
-		"message": "I Ancient fortification that separates Scotland and England\n"
+		"message": "I Ancient fortification that separates Scotland and England"
 	},
 	"127": {
 		"type": "MOTIVE CLUE",
 		"partTotal": 2,
-		"message": "I This stone celebrates 60 years.\n"
+		"message": "I This stone celebrates 60 years."
 	},
 	"128": {
 		"type": "",
@@ -647,12 +647,12 @@ export default {
 	"129": {
 		"type": "MOTIVE CLUE",
 		"partTotal": 4,
-		"message": "IV Rise in a muddle\n"
+		"message": "IV Rise in a muddle"
 	},
 	"130": {
 		"type": "HIDING PLACE CLUE",
 		"partTotal": 2,
-		"message": "II Dr Finlay's __ book.\n"
+		"message": "II Dr Finlay's __ book."
 	},
 	"131": {
 		"type": "",
@@ -662,12 +662,12 @@ export default {
 	"133": {
 		"type": "KILLER CLUE",
 		"partTotal": 2,
-		"message": "I High ground.\n"
+		"message": "I High ground."
 	},
 	"134": {
 		"type": "KILLER CLUE",
 		"partTotal": 2,
-		"message": "I Something that produces an effect.\n"
+		"message": "I Something that produces an effect."
 	},
 	"135": {
 		"type": "",
@@ -677,17 +677,17 @@ export default {
 	"136": {
 		"type": "GENERAL WEAPON CLUE",
 		"partTotal": 0,
-		"message": "The Bible says that if you live by one, you'll die by one.\n"
+		"message": "The Bible says that if you live by one, you'll die by one."
 	},
 	"137": {
 		"type": "COMPLETE WEAPON CLUE",
 		"partTotal": 0,
-		"message": "I A cylindrical tin container.\nII The opposite of sharp or bright.\n"
+		"message": "I A cylindrical tin container.\nII The opposite of sharp or bright."
 	},
 	"138": {
 		"type": "KILLER CLUE",
 		"partTotal": 2,
-		"message": "I A room.\n"
+		"message": "I A room."
 	},
 	"139": {
 		"type": "",
@@ -697,7 +697,7 @@ export default {
 	"140": {
 		"type": "BENEFACTOR MOTIVE CLUE",
 		"partTotal": 4,
-		"message": "IV A tune is composed of many.\n"
+		"message": "IV A tune is composed of many."
 	},
 	"141": {
 		"type": "",
@@ -712,7 +712,7 @@ export default {
 	"143": {
 		"type": "CODE CLUE",
 		"partTotal": 0,
-		"message": "V = E\n"
+		"message": "V = E"
 	},
 	"144": {
 		"type": "",
@@ -722,7 +722,7 @@ export default {
 	"145": {
 		"type": "LOCATION OF INVENTION CLUE",
 		"partTotal": 2,
-		"message": "I Adam's ale.\n"
+		"message": "I Adam's ale."
 	},
 	"146": {
 		"type": "",
@@ -737,7 +737,7 @@ export default {
 	"148": {
 		"type": "MOTIVE CLUE",
 		"partTotal": 4,
-		"message": "III Second word of Lord's Prayer.\n"
+		"message": "III Second word of Lord's Prayer."
 	},
 	"149": {
 		"type": "",
@@ -777,7 +777,7 @@ export default {
 	"156": {
 		"type": "MOTIVE CLUE",
 		"partTotal": 2,
-		"message": "I OH is sometimes known as' ___ gold'.\n"
+		"message": "I OH is sometimes known as' ___ gold'."
 	},
 	"157": {
 		"type": "",
@@ -787,7 +787,7 @@ export default {
 	"158": {
 		"type": "SURPRISE CLUE",
 		"partTotal": 3,
-		"message": "III Implement used to separate fine grains from coarse grains.\n"
+		"message": "III Implement used to separate fine grains from coarse grains."
 	},
 	"159": {
 		"type": "",
@@ -797,12 +797,12 @@ export default {
 	"160": {
 		"type": "MOTIVE CLUE",
 		"partTotal": 4,
-		"message": "IV Comes to us all in the end.\n"
+		"message": "IV Comes to us all in the end."
 	},
 	"161": {
 		"type": "KILLER CLUE",
 		"partTotal": 2,
-		"message": "lJ One of the most fashionable residential addresses m London 1s Park_\n"
+		"message": "lJ One of the most fashionable residential addresses m London 1s Park_"
 	},
 	"162": {
 		"type": "",
@@ -812,7 +812,7 @@ export default {
 	"163": {
 		"type": "WHEREABOUTS CLUE",
 		"partTotal": 3,
-		"message": "I Bass, trout and perch are _.\n"
+		"message": "I Bass, trout and perch are _."
 	},
 	"164": {
 		"type": "",
@@ -822,7 +822,7 @@ export default {
 	"165": {
 		"type": "KILLER CLUE",
 		"partTotal": 2,
-		"message": "I The opposite of front.\n"
+		"message": "I The opposite of front."
 	},
 	"166": {
 		"type": "",
@@ -842,7 +842,7 @@ export default {
 	"169": {
 		"type": "CODE CLUE",
 		"partTotal": 0,
-		"message": "Each word is divided in half.\n"
+		"message": "Each word is divided in half."
 	},
 	"170": {
 		"type": "",
@@ -862,7 +862,7 @@ export default {
 	"173": {
 		"type": "KILLER CLUE",
 		"partTotal": 4,
-		"message": "II A rolling __ gathers no moss.\n"
+		"message": "II A rolling __ gathers no moss."
 	},
 	"174": {
 		"type": "",
@@ -882,7 +882,7 @@ export default {
 	"177": {
 		"type": "KILLER MOTIVE CLUE",
 		"partTotal": 0,
-		"message": "A very dark man.\n"
+		"message": "A very dark man."
 	},
 	"178": {
 		"type": "",
@@ -902,12 +902,12 @@ export default {
 	"181": {
 		"type": "MOTIVE CLUE",
 		"partTotal": 4,
-		"message": "I The answer sounds as if it will hit you like a __ of bricks!\nII Shell without sh.\n"
+		"message": "I The answer sounds as if it will hit you like a __ of bricks!\nII Shell without sh."
 	},
 	"182": {
 		"type": "HIDING PLACE",
 		"partTotal": 2,
-		"message": "I The plates are hidden in the hollow bottom ...... .\n"
+		"message": "I The plates are hidden in the hollow bottom ...... ."
 	},
 	"183": {
 		"type": "",
@@ -917,12 +917,12 @@ export default {
 	"184": {
 		"type": "CHAMELEON CLUE",
 		"partTotal": 2,
-		"message": "II Winds that blow permanently east-west in southern seas for commerce.\n"
+		"message": "II Winds that blow permanently east-west in southern seas for commerce."
 	},
 	"185": {
 		"type": "",
 		"partTotal": 0,
-		"message": "J L Farlinger, staying in town to be near his diamonds, is found in a drugged stupor on the morning of thetheft.\n"
+		"message": "J L Farlinger, staying in town to be near his diamonds, is found in a drugged stupor on the morning of thetheft."
 	},
 	"186": {
 		"type": "",
@@ -932,12 +932,12 @@ export default {
 	"187": {
 		"type": "MOTIVE CLUE",
 		"partTotal": 4,
-		"message": "IV To possess something.\n"
+		"message": "IV To possess something."
 	},
 	"188": {
 		"type": "WEAPON CLUE",
 		"partTotal": 3,
-		"message": "III Abel's brother.\n"
+		"message": "III Abel's brother."
 	},
 	"189": {
 		"type": "",
@@ -947,7 +947,7 @@ export default {
 	"190": {
 		"type": "MOTIVE CLUE",
 		"partTotal": 4,
-		"message": "I Half of them.\n"
+		"message": "I Half of them."
 	},
 	"191": {
 		"type": "",
@@ -962,7 +962,7 @@ export default {
 	"193": {
 		"type": "KILLER CLUE",
 		"partTotal": 4,
-		"message": "__'s Well that ends Well\n"
+		"message": "__'s Well that ends Well"
 	},
 	"194": {
 		"type": "",
@@ -972,7 +972,7 @@ export default {
 	"195": {
 		"type": "KILLER CLUE",
 		"partTotal": 2,
-		"message": "II Entitled to feel cross.\n"
+		"message": "II Entitled to feel cross."
 	},
 	"196": {
 		"type": "",
@@ -982,12 +982,12 @@ export default {
 	"197": {
 		"type": "WEAPON CLUE",
 		"partTotal": 2,
-		"message": "I Mother sheep.\n"
+		"message": "I Mother sheep."
 	},
 	"198": {
 		"type": "WEAPON CLUE",
 		"partTotal": 3,
-		"message": "III ls every cathedral town one?\n"
+		"message": "III ls every cathedral town one?"
 	},
 	"199": {
 		"type": "",
@@ -997,12 +997,12 @@ export default {
 	"200": {
 		"type": "MOTIVE CLUE",
 		"partTotal": 2,
-		"message": "II What the mailman delivers to Americans.\n"
+		"message": "II What the mailman delivers to Americans."
 	},
 	"201": {
 		"type": "CODE CLUE",
 		"partTotal": 0,
-		"message": "Number the first half of the message 1-33, odd numbers only.\n"
+		"message": "Number the first half of the message 1-33, odd numbers only."
 	},
 	"202": {
 		"type": "",
@@ -1032,12 +1032,12 @@ export default {
 	"207": {
 		"type": "MOTIVE CLUE",
 		"partTotal": 4,
-		"message": "II French, de; German, van; Italian, di; English, _.\nIII Hero loses nought.\n"
+		"message": "II French, de; German, van; Italian, di; English, _.\nIII Hero loses nought."
 	},
 	"208": {
 		"type": "CAUSE OF DEATH CLUE",
 		"partTotal": 5,
-		"message": "III Secure a shot of heroin.\n"
+		"message": "III Secure a shot of heroin."
 	},
 	"209": {
 		"type": "",
@@ -1047,12 +1047,12 @@ export default {
 	"210": {
 		"type": "MOTIVE CLUE",
 		"partTotal": 3,
-		"message": "III Boy Scouts know how to pitch them.\n"
+		"message": "III Boy Scouts know how to pitch them."
 	},
 	"211": {
 		"type": "MOTIVE CLUE",
 		"partTotal": 2,
-		"message": "I 'Grown up'.\n"
+		"message": "I 'Grown up'."
 	},
 	"212": {
 		"type": "",
@@ -1062,12 +1062,12 @@ export default {
 	"213": {
 		"type": "KILLER CLUE",
 		"partTotal": 3,
-		"message": "II Sir Henry __ is a famous sculptor.\nIII Henry VIII divorced Katherine to marry_ Boleyn.\n"
+		"message": "II Sir Henry __ is a famous sculptor.\nIII Henry VIII divorced Katherine to marry_ Boleyn."
 	},
 	"214": {
 		"type": "MOTIVE CLUE",
 		"partTotal": 3,
-		"message": "I Let's play hide and _.\n"
+		"message": "I Let's play hide and _."
 	},
 	"215": {
 		"type": "",
@@ -1087,7 +1087,7 @@ export default {
 	"218": {
 		"type": "KILLER CLUE",
 		"partTotal": 2,
-		"message": "I Not short.\n"
+		"message": "I Not short."
 	},
 	"219": {
 		"type": "",
@@ -1127,7 +1127,7 @@ export default {
 	"226": {
 		"type": "KIDNAPPER CLUE",
 		"partTotal": 3,
-		"message": "II A card game for four players.\n"
+		"message": "II A card game for four players."
 	},
 	"227": {
 		"type": "",
@@ -1142,7 +1142,7 @@ export default {
 	"229": {
 		"type": "CODE CLUE",
 		"partTotal": 0,
-		"message": "Number the second half of the message 2-34, even numbers only.\n"
+		"message": "Number the second half of the message 2-34, even numbers only."
 	},
 	"230": {
 		"type": "",
@@ -1157,7 +1157,7 @@ export default {
 	"232": {
 		"type": "CODE CLUE",
 		"partTotal": 0,
-		"message": "R = I\n"
+		"message": "R = I"
 	},
 	"233": {
 		"type": "",
@@ -1167,7 +1167,7 @@ export default {
 	"234": {
 		"type": "WEAPON CLUE",
 		"partTotal": 3,
-		"message": "III Not a 'Gattie of Gear' but a '___ of beer'.\n"
+		"message": "III Not a 'Gattie of Gear' but a '___ of beer'."
 	},
 	"235": {
 		"type": "",
@@ -1177,7 +1177,7 @@ export default {
 	"236": {
 		"type": "KILLER CLUE",
 		"partTotal": 2,
-		"message": "I Kith and ___\n"
+		"message": "I Kith and ___"
 	},
 	"237": {
 		"type": "",
@@ -1187,12 +1187,12 @@ export default {
 	"238": {
 		"type": "WEAPON CLUE",
 		"partTotal": 2,
-		"message": "II The USSR emblem is the hammer and ____\n"
+		"message": "II The USSR emblem is the hammer and ____"
 	},
 	"239": {
 		"type": "WEAPON CLUE",
 		"partTotal": 3,
-		"message": "II At home.\n"
+		"message": "II At home."
 	},
 	"240": {
 		"type": "",
@@ -1212,7 +1212,7 @@ export default {
 	"243": {
 		"type": "KILLER CLUE",
 		"partTotal": 2,
-		"message": "II Value.\n"
+		"message": "II Value."
 	},
 	"244": {
 		"type": "",
@@ -1227,12 +1227,12 @@ export default {
 	"246": {
 		"type": "KILLER CLUE",
 		"partTotal": 4,
-		"message": "I Expression used in golf to warn someone of an oncoming ball\nIII ___ in crime\n"
+		"message": "I Expression used in golf to warn someone of an oncoming ball\nIII ___ in crime"
 	},
 	"247": {
 		"type": "MASTERMIND CLUE",
 		"partTotal": 2,
-		"message": "I The sort of soup you walk through on a foggy day!\n"
+		"message": "I The sort of soup you walk through on a foggy day!"
 	},
 	"248": {
 		"type": "",
@@ -1252,7 +1252,7 @@ export default {
 	"251": {
 		"type": "KIDNAPPER CLUE",
 		"partTotal": 3,
-		"message": "III 'let him who is without sin cast the first\n"
+		"message": "III 'let him who is without sin cast the first"
 	},
 	"252": {
 		"type": "",
@@ -1262,12 +1262,12 @@ export default {
 	"253": {
 		"type": "WEAPON CLUE",
 		"partTotal": 3,
-		"message": "III ___ Watchers Anonymous.\n"
+		"message": "III ___ Watchers Anonymous."
 	},
 	"254": {
 		"type": "SURPRISE CLUE",
 		"partTotal": 3,
-		"message": "II Palestinian Liberation Organisation?\n"
+		"message": "II Palestinian Liberation Organisation?"
 	},
 	"255": {
 		"type": "",
@@ -1282,7 +1282,7 @@ export default {
 	"257": {
 		"type": "CODE CLUE",
 		"partTotal": 0,
-		"message": "M = N, O = L\n"
+		"message": "M = N, O = L"
 	},
 	"258": {
 		"type": "",
@@ -1322,7 +1322,7 @@ export default {
 	"265": {
 		"type": "MOTIVE CLUE",
 		"partTotal": 3,
-		"message": "I First half of the cox's repetitive cry to his rowers.\nII Strands that grow from the scalp.\n"
+		"message": "I First half of the cox's repetitive cry to his rowers.\nII Strands that grow from the scalp."
 	},
 	"266": {
 		"type": "",
@@ -1342,7 +1342,7 @@ export default {
 	"269": {
 		"type": "WHEREABOUTS OF PLANS CLUE",
 		"partTotal": 4,
-		"message": "IV Your neck bone's connected to your __ bone!\n"
+		"message": "IV Your neck bone's connected to your __ bone!"
 	},
 	"270": {
 		"type": "",
@@ -1367,27 +1367,27 @@ export default {
 	"274": {
 		"type": "MOTIVE CLUE",
 		"partTotal": 2,
-		"message": "II An Antarctic bird which appears formally dressed.\n"
+		"message": "II An Antarctic bird which appears formally dressed."
 	},
 	"275": {
 		"type": "MASTERMIND CLUE",
 		"partTotal": 2,
-		"message": "II A corpse.\n"
+		"message": "II A corpse."
 	},
 	"276": {
 		"type": "KILLER CLUE",
 		"partTotal": 2,
-		"message": "I Town in Cheshire selling things cheap.\n"
+		"message": "I Town in Cheshire selling things cheap."
 	},
 	"277": {
 		"type": "KILLER CLUE",
 		"partTotal": 2,
-		"message": "I Ancient British king.\n"
+		"message": "I Ancient British king."
 	},
 	"278": {
 		"type": "WHEREABOUTS OF PLANS CLUE",
 		"partTotal": 4,
-		"message": "I In prison, looking out.\n"
+		"message": "I In prison, looking out."
 	},
 	"279": {
 		"type": "",
@@ -1407,7 +1407,7 @@ export default {
 	"282": {
 		"type": "KILLER CLUE",
 		"partTotal": 2,
-		"message": "II The opposite of woman.\n"
+		"message": "II The opposite of woman."
 	},
 	"283": {
 		"type": "",
@@ -1417,12 +1417,12 @@ export default {
 	"284": {
 		"type": "CAUSE OF DEATH CLUE",
 		"partTotal": 5,
-		"message": "IV The reverse of ai.\n"
+		"message": "IV The reverse of ai."
 	},
 	"285": {
 		"type": "FORTUNE CLUE",
 		"partTotal": 2,
-		"message": "I Not medium or well done.\n"
+		"message": "I Not medium or well done."
 	},
 	"286": {
 		"type": "",
@@ -1437,7 +1437,7 @@ export default {
 	"288": {
 		"type": "WEAPON CLUE",
 		"partTotal": 2,
-		"message": "II They fall in autumn.\n"
+		"message": "II They fall in autumn."
 	},
 	"289": {
 		"type": "",
@@ -1457,7 +1457,7 @@ export default {
 	"292": {
 		"type": "WHEREABOUTS CLUE",
 		"partTotal": 3,
-		"message": "II' __ a ong of ixpence'.\n"
+		"message": "II' __ a ong of ixpence'."
 	},
 	"293": {
 		"type": "",
@@ -1477,17 +1477,17 @@ export default {
 	"296": {
 		"type": "KILLER CLUE",
 		"partTotal": 2,
-		"message": "II Gipsy Rose?\n"
+		"message": "II Gipsy Rose?"
 	},
 	"297": {
 		"type": "MOTIVE CLUE",
 		"partTotal": 2,
-		"message": "II Not a mistress whole.\n"
+		"message": "II Not a mistress whole."
 	},
 	"298": {
 		"type": "HIDING PLACE CLUE",
 		"partTotal": 2,
-		"message": "J Would you pack suits in a __ case?\n"
+		"message": "J Would you pack suits in a __ case?"
 	},
 	"299": {
 		"type": "",
@@ -1507,7 +1507,7 @@ export default {
 	"302": {
 		"type": "WEAPON CLUE",
 		"partTotal": 2,
-		"message": "II Indians peacefully smoke it.\n"
+		"message": "II Indians peacefully smoke it."
 	},
 	"303": {
 		"type": "",
@@ -1527,7 +1527,7 @@ export default {
 	"306": {
 		"type": "WEAPON CLUE",
 		"partTotal": 2,
-		"message": "JI Painful twist of a joint.\n"
+		"message": "JI Painful twist of a joint."
 	},
 	"307": {
 		"type": "",
@@ -1537,7 +1537,7 @@ export default {
 	"308": {
 		"type": "Item on the Sumatran animal feed bill; one pound of red pepper. 309 WEAPON CLUE",
 		"partTotal": 3,
-		"message": "II If at first you don't succeed __ ?\n"
+		"message": "II If at first you don't succeed __ ?"
 	},
 	"310": {
 		"type": "",
@@ -1547,7 +1547,7 @@ export default {
 	"311": {
 		"type": "KILLER CLUE",
 		"partTotal": 3,
-		"message": "I Nutty centre.\n"
+		"message": "I Nutty centre."
 	},
 	"312": {
 		"type": "",
@@ -1567,12 +1567,12 @@ export default {
 	"315": {
 		"type": "MOTIVE CLUE",
 		"partTotal": 4,
-		"message": "II The sound a bee makes.\n"
+		"message": "II The sound a bee makes."
 	},
 	"316": {
 		"type": "KILLER CLUE",
 		"partTotal": 2,
-		"message": "I He did not take a very Christian view of Captain Bligh; or did he?\n"
+		"message": "I He did not take a very Christian view of Captain Bligh; or did he?"
 	},
 	"317": {
 		"type": "",
@@ -1582,12 +1582,12 @@ export default {
 	"318": {
 		"type": "",
 		"partTotal": 0,
-		"message": "Harrison Hawksworth had lent Sir Alan Benchly a great deal of money without formal papers ever havingbeen drawn.\n"
+		"message": "Harrison Hawksworth had lent Sir Alan Benchly a great deal of money without formal papers ever havingbeen drawn."
 	},
 	"319": {
 		"type": "THIEF CLUE",
 		"partTotal": 2,
-		"message": "II These brothers made the first powered flight.\n"
+		"message": "II These brothers made the first powered flight."
 	},
 	"320": {
 		"type": "",
@@ -1602,7 +1602,7 @@ export default {
 	"322": {
 		"type": "BENEFACTOR MOTIVE CLUE",
 		"partTotal": 4,
-		"message": "III To solve this will be no mean\n"
+		"message": "III To solve this will be no mean"
 	},
 	"323": {
 		"type": "",
@@ -1617,7 +1617,7 @@ export default {
 	"325": {
 		"type": "MOTIVE CLUE",
 		"partTotal": 0,
-		"message": "large pygmy married twice.\n"
+		"message": "large pygmy married twice."
 	},
 	"326": {
 		"type": "",
@@ -1627,17 +1627,17 @@ export default {
 	"327": {
 		"type": "GENERAL WEAPON CLUE",
 		"partTotal": 0,
-		"message": "The marks on Radcliffe's neck appear to be caused by some sort of leather strap.\n"
+		"message": "The marks on Radcliffe's neck appear to be caused by some sort of leather strap."
 	},
 	"328": {
 		"type": "KIDNAPPER CLUE",
 		"partTotal": 3,
-		"message": "I A nadder is now called adder.\n"
+		"message": "I A nadder is now called adder."
 	},
 	"329": {
 		"type": "KILLER CLUE",
 		"partTotal": 2,
-		"message": "II Part of the body that wears a cap.\n"
+		"message": "II Part of the body that wears a cap."
 	},
 	"330": {
 		"type": "",
@@ -1647,7 +1647,7 @@ export default {
 	"331": {
 		"type": "MOTIVE CLUE",
 		"partTotal": 4,
-		"message": "II A furnace sometimes used by a blacksmith.\n"
+		"message": "II A furnace sometimes used by a blacksmith."
 	},
 	"332": {
 		"type": "",
@@ -1657,17 +1657,17 @@ export default {
 	"333": {
 		"type": "GENERAL CLUE",
 		"partTotal": 0,
-		"message": "The Chameleon expects to see Holmes high strung.\n"
+		"message": "The Chameleon expects to see Holmes high strung."
 	},
 	"334": {
 		"type": "BENEFACTOR MOTIVE CLUE",
 		"partTotal": 4,
-		"message": "I The Khyber is a famous ___ .\n"
+		"message": "I The Khyber is a famous ___ ."
 	},
 	"335": {
 		"type": "KILLER CLUE",
 		"partTotal": 2,
-		"message": "I A doorbell might have this written on it.\n"
+		"message": "I A doorbell might have this written on it."
 	},
 	"336": {
 		"type": "",
@@ -1677,12 +1677,12 @@ export default {
 	"337": {
 		"type": "WEAPON CLUE",
 		"partTotal": 2,
-		"message": "I Haves (Anagram)\n"
+		"message": "I Haves (Anagram)"
 	},
 	"338": {
 		"type": "CAUSE OF DEATH CLUE",
 		"partTotal": 5,
-		"message": "V To avoid conspicuously.\n"
+		"message": "V To avoid conspicuously."
 	},
 	"339": {
 		"type": "",
@@ -1717,12 +1717,12 @@ export default {
 	"345": {
 		"type": "KILLER CLUE",
 		"partTotal": 2,
-		"message": "II Theme lacking the.\n"
+		"message": "II Theme lacking the."
 	},
 	"346": {
 		"type": "MOTIVE CLUE",
 		"partTotal": 3,
-		"message": "I Another name for Tavern.\nIII Insects in restless people's underwear.\n"
+		"message": "I Another name for Tavern.\nIII Insects in restless people's underwear."
 	},
 	"347": {
 		"type": "",
@@ -1732,7 +1732,7 @@ export default {
 	"348": {
 		"type": "WHEREABOUTS OF PLANS CLUE",
 		"partTotal": 4,
-		"message": "II Source of light.\n"
+		"message": "II Source of light."
 	},
 	"349": {
 		"type": "",
@@ -1742,7 +1742,7 @@ export default {
 	"350": {
 		"type": "MOTIVE CLUE",
 		"partTotal": 3,
-		"message": "II Retired abbreviated.\n"
+		"message": "II Retired abbreviated."
 	},
 	"351": {
 		"type": "",
@@ -1762,7 +1762,7 @@ export default {
 	"354": {
 		"type": "KILLER CLUE",
 		"partTotal": 4,
-		"message": "III Completed; finished.\n"
+		"message": "III Completed; finished."
 	},
 	"355": {
 		"type": "",
@@ -1772,12 +1772,12 @@ export default {
 	"357": {
 		"type": "CODE CLUE",
 		"partTotal": 0,
-		"message": "K = P\n"
+		"message": "K = P"
 	},
 	"358": {
 		"type": "KILLER CLUE",
 		"partTotal": 0,
-		"message": "II Scottish town.\n"
+		"message": "II Scottish town."
 	},
 	"359": {
 		"type": "",
@@ -1787,7 +1787,7 @@ export default {
 	"360": {
 		"type": "WEAPON CLUE",
 		"partTotal": 3,
-		"message": "I Crime doesn't ___\n"
+		"message": "I Crime doesn't ___"
 	},
 	"361": {
 		"type": "",
@@ -1797,7 +1797,7 @@ export default {
 	"362": {
 		"type": "CODE CLUE",
 		"partTotal": 0,
-		"message": "Z = A\n"
+		"message": "Z = A"
 	},
 	"363": {
 		"type": "",
@@ -1832,7 +1832,7 @@ export default {
 	"369": {
 		"type": "WEAPON CLUE",
 		"partTotal": 3,
-		"message": "II The sound made by a contented cat.\n"
+		"message": "II The sound made by a contented cat."
 	},
 	"370": {
 		"type": "",
@@ -1847,17 +1847,17 @@ export default {
 	"372": {
 		"type": "MOTIVE CLUE",
 		"partTotal": 4,
-		"message": "I Son or daughter.\n"
+		"message": "I Son or daughter."
 	},
 	"373": {
 		"type": "CODE CLUE",
 		"partTotal": 0,
-		"message": "The message is written in two equal halves.\n"
+		"message": "The message is written in two equal halves."
 	},
 	"374": {
 		"type": "WEAPON CLUE",
 		"partTotal": 3,
-		"message": "I Something painful or tender is __ .\n"
+		"message": "I Something painful or tender is __ ."
 	},
 	"375": {
 		"type": "",
@@ -1867,7 +1867,7 @@ export default {
 	"376": {
 		"type": "KILLER CLUE",
 		"partTotal": 2,
-		"message": "A swine or glutton.\n"
+		"message": "A swine or glutton."
 	},
 	"377": {
 		"type": "",
@@ -1877,7 +1877,7 @@ export default {
 	"378": {
 		"type": "MOTIVE CLUE",
 		"partTotal": 2,
-		"message": "II It isn't very funny when you bang your funny __ .\n"
+		"message": "II It isn't very funny when you bang your funny __ ."
 	},
 	"379": {
 		"type": "",
@@ -1892,7 +1892,7 @@ export default {
 	"381": {
 		"type": "FORTUNE CLUE",
 		"partTotal": 2,
-		"message": "II Necessary to post letter.\n"
+		"message": "II Necessary to post letter."
 	},
 	"382": {
 		"type": "",
@@ -1912,12 +1912,12 @@ export default {
 	"385": {
 		"type": "MOTIVE CLUE",
 		"partTotal": 4,
-		"message": "I Short Avenue.\n"
+		"message": "I Short Avenue."
 	},
 	"386": {
 		"type": "KILLER CLUE",
 		"partTotal": 2,
-		"message": "I The opposite of poor.\n"
+		"message": "I The opposite of poor."
 	},
 	"387": {
 		"type": "",
@@ -1932,7 +1932,7 @@ export default {
 	"389": {
 		"type": "BENEFACTOR MOTIVE CLUE",
 		"partTotal": 4,
-		"message": "II A shop assistant traditionally serves at a _____\n"
+		"message": "II A shop assistant traditionally serves at a _____"
 	},
 	"390": {
 		"type": "",
@@ -1947,12 +1947,12 @@ export default {
 	"392": {
 		"type": "MOTIVE CLUE",
 		"partTotal": 4,
-		"message": "I As many as the ___ in the heavens.\n"
+		"message": "I As many as the ___ in the heavens."
 	},
 	"393": {
 		"type": "WEAPON CLUE",
 		"partTotal": 3,
-		"message": "I When you have no money you are flat ____\nII An egg layer dropping her H's\n"
+		"message": "I When you have no money you are flat ____\nII An egg layer dropping her H's"
 	},
 	"394": {
 		"type": "",
@@ -1967,12 +1967,12 @@ export default {
 	"396": {
 		"type": "HIDING PLACE",
 		"partTotal": 2,
-		"message": "II _____ of a Museum display case.\n"
+		"message": "II _____ of a Museum display case."
 	},
 	"397": {
 		"type": "MOTIVE CLUE",
 		"partTotal": 4,
-		"message": "I Bucket for carrying coal.\n"
+		"message": "I Bucket for carrying coal."
 	},
 	"398": {
 		"type": "",
@@ -1987,7 +1987,7 @@ export default {
 	"400": {
 		"type": "WEAPON CLUE",
 		"partTotal": 2,
-		"message": "I A jungle creature who likes bananas.\n"
+		"message": "I A jungle creature who likes bananas."
 	},
 	"401": {
 		"type": "",
@@ -2032,7 +2032,7 @@ export default {
 	"409": {
 		"type": "KILLER AND BENEFACTOR CLUE",
 		"partTotal": 0,
-		"message": "Only one person gained real financial benefit from the operation, other than the Locksmith.\n"
+		"message": "Only one person gained real financial benefit from the operation, other than the Locksmith."
 	},
 	"410": {
 		"type": "",
@@ -2047,17 +2047,17 @@ export default {
 	"412": {
 		"type": "CAUSE OF DEATH CLUE",
 		"partTotal": 5,
-		"message": "II The cockney for has.\n"
+		"message": "II The cockney for has."
 	},
 	"413": {
 		"type": "LOCATION OF INVENTION CLUE",
 		"partTotal": 2,
-		"message": "I Where ships safely anchor.\n"
+		"message": "I Where ships safely anchor."
 	},
 	"414": {
 		"type": "MOTIVE CLUE",
 		"partTotal": 2,
-		"message": "I Wrecked, ruined.\n"
+		"message": "I Wrecked, ruined."
 	},
 	"415": {
 		"type": "",
@@ -2067,12 +2067,12 @@ export default {
 	"416": {
 		"type": "SURPRISE CLUE",
 		"partTotal": 3,
-		"message": "I No __pense spared.\n"
+		"message": "I No __pense spared."
 	},
 	"417": {
 		"type": "MOTIVE CLUE",
 		"partTotal": 4,
-		"message": "I Start without the Saint.\n"
+		"message": "I Start without the Saint."
 	},
 	"418": {
 		"type": "",
@@ -2082,12 +2082,12 @@ export default {
 	"419": {
 		"type": "",
 		"partTotal": 0,
-		"message": "COMPLETE METHOD OF REMOVALThe Plates were carried up the air shaft in human hands.\n"
+		"message": "COMPLETE METHOD OF REMOVALThe Plates were carried up the air shaft in human hands."
 	},
 	"420": {
 		"type": "MOTIVE CLUE",
 		"partTotal": 2,
-		"message": "II Do gold and coal come from an explosive device belonging to me?\n"
+		"message": "II Do gold and coal come from an explosive device belonging to me?"
 	},
 	"421": {
 		"type": "",
@@ -2122,12 +2122,12 @@ export default {
 	"427": {
 		"type": "MOTIVE CLUE",
 		"partTotal": 0,
-		"message": "Sir Richard Grenville's ship returns to sett!e old score.\n"
+		"message": "Sir Richard Grenville's ship returns to sett!e old score."
 	},
 	"428": {
 		"type": "WEAPON CLUE",
 		"partTotal": 0,
-		"message": "Fishy nose.\n"
+		"message": "Fishy nose."
 	},
 	"429": {
 		"type": "",
@@ -2152,7 +2152,7 @@ export default {
 	"433": {
 		"type": "KILLER CLUE",
 		"partTotal": 4,
-		"message": "III Legendary chivalrous person from Sherwood Forest (second name only).\nIV Human offspring (plural).\n"
+		"message": "III Legendary chivalrous person from Sherwood Forest (second name only).\nIV Human offspring (plural)."
 	},
 	"434": {
 		"type": "",
@@ -2162,7 +2162,7 @@ export default {
 	"435": {
 		"type": "KILLER CLUE",
 		"partTotal": 3,
-		"message": "I Post script initially, followed by churchyard tree whose wood made long bows.\n"
+		"message": "I Post script initially, followed by churchyard tree whose wood made long bows."
 	},
 	"436": {
 		"type": "",
@@ -2172,7 +2172,7 @@ export default {
 	"437": {
 		"type": "KILLER CLUE",
 		"partTotal": 2,
-		"message": "I Noise a cat makes.\n"
+		"message": "I Noise a cat makes."
 	},
 	"438": {
 		"type": "",
@@ -2207,12 +2207,12 @@ export default {
 	"444": {
 		"type": "WHEREABOUTS CLUE",
 		"partTotal": 2,
-		"message": "I His nose was a fowl affair.\n"
+		"message": "I His nose was a fowl affair."
 	},
 	"445": {
 		"type": "METHOD CLUE",
 		"partTotal": 4,
-		"message": "I Smoke goes up a chimney __ _\nII Past tense of 'throw'\n"
+		"message": "I Smoke goes up a chimney __ _\nII Past tense of 'throw'"
 	},
 	"446": {
 		"type": "",
@@ -2237,7 +2237,7 @@ export default {
 	"450": {
 		"type": "HOW POISONED CLUE",
 		"partTotal": 2,
-		"message": "II Animal trap worked by alcoholic drink?\n"
+		"message": "II Animal trap worked by alcoholic drink?"
 	},
 	"451": {
 		"type": "",
@@ -2247,7 +2247,7 @@ export default {
 	"452": {
 		"type": "MOTIVE CLUE",
 		"partTotal": 4,
-		"message": "I Hide by deceiving seal!\nIII Police parade of innocents and suspect.\n"
+		"message": "I Hide by deceiving seal!\nIII Police parade of innocents and suspect."
 	},
 	"453": {
 		"type": "",
@@ -2272,7 +2272,7 @@ export default {
 	"457": {
 		"type": "KILLER CLUE",
 		"partTotal": 4,
-		"message": "I Horse says no!\nII Wild pig drones on and on the River Severn.\n"
+		"message": "I Horse says no!\nII Wild pig drones on and on the River Severn."
 	},
 	"458": {
 		"type": "",
@@ -2282,12 +2282,12 @@ export default {
 	"459": {
 		"type": "WEAPON CLUE",
 		"partTotal": 0,
-		"message": "When punting, could you be said to be 'up the creek without a. ..'?\n"
+		"message": "When punting, could you be said to be 'up the creek without a. ..'?"
 	},
 	"460": {
 		"type": "METHOD CLUE",
 		"partTotal": 4,
-		"message": "I Public School famous for collars and scholars.\nIII She was musically involved with the King of Siam.\n"
+		"message": "I Public School famous for collars and scholars.\nIII She was musically involved with the King of Siam."
 	},
 	"461": {
 		"type": "",
@@ -2297,7 +2297,7 @@ export default {
 	"462": {
 		"type": "KILLER CLUE",
 		"partTotal": 2,
-		"message": "I Rock-like disciple.\n"
+		"message": "I Rock-like disciple."
 	},
 	"463": {
 		"type": "",
@@ -2312,7 +2312,7 @@ export default {
 	"465": {
 		"type": "MOTIVE CLUE",
 		"partTotal": 4,
-		"message": "I Sid goes backwards\nIII Competitor/opponent\n"
+		"message": "I Sid goes backwards\nIII Competitor/opponent"
 	},
 	"466": {
 		"type": "",
@@ -2332,17 +2332,17 @@ export default {
 	"469": {
 		"type": "METHOD CLUE",
 		"partTotal": 4,
-		"message": "II A Lord at the seaside?\nIV And what he was angling for!\n"
+		"message": "II A Lord at the seaside?\nIV And what he was angling for!"
 	},
 	"470": {
 		"type": "WHEREABOUT OF SERVANT CLUE",
 		"partTotal": 0,
-		"message": "Not exhumed in Park.\n"
+		"message": "Not exhumed in Park."
 	},
 	"471": {
 		"type": "MOTIVE CLUE",
 		"partTotal": 4,
-		"message": "II Not false, singular Scottish trousers.\nIV Possible relative of famous Victorian Cricketer.\n"
+		"message": "II Not false, singular Scottish trousers.\nIV Possible relative of famous Victorian Cricketer."
 	},
 	"472": {
 		"type": "",
@@ -2352,7 +2352,7 @@ export default {
 	"473": {
 		"type": "THIEF CLUE",
 		"partTotal": 2,
-		"message": "I A real knave, master of no trades.\n"
+		"message": "I A real knave, master of no trades."
 	},
 	"474": {
 		"type": "",
@@ -2367,7 +2367,7 @@ export default {
 	"476": {
 		"type": "KILLER CLUE",
 		"partTotal": 0,
-		"message": "He cuts a suit and spreads on bread.\n"
+		"message": "He cuts a suit and spreads on bread."
 	},
 	"477": {
 		"type": "",
@@ -2382,7 +2382,7 @@ export default {
 	"479": {
 		"type": "MOTIVE CLUE",
 		"partTotal": 4,
-		"message": "II Given wages\nIV Abstract plan or concept derived by thought.\n"
+		"message": "II Given wages\nIV Abstract plan or concept derived by thought."
 	},
 	"480": {
 		"type": "",
@@ -2417,7 +2417,7 @@ export default {
 	"486": {
 		"type": "WEAPON CLUE",
 		"partTotal": 3,
-		"message": "II Managing to finish off the top of a wall.\n"
+		"message": "II Managing to finish off the top of a wall."
 	},
 	"487": {
 		"type": "",
@@ -2452,7 +2452,7 @@ export default {
 	"493": {
 		"type": "MOTIVE CLUE",
 		"partTotal": 4,
-		"message": "I One nautical mile per hour.\nIII New book.\n"
+		"message": "I One nautical mile per hour.\nIII New book."
 	},
 	"494": {
 		"type": "",
@@ -2492,7 +2492,7 @@ export default {
 	"502": {
 		"type": "KILLER CLUE",
 		"partTotal": 2,
-		"message": "II Went without tea.\n"
+		"message": "II Went without tea."
 	},
 	"503": {
 		"type": "",
@@ -2502,7 +2502,7 @@ export default {
 	"504": {
 		"type": "ADVICE CLUE",
 		"partTotal": 2,
-		"message": "I The polite way to back out of an argument age of 65 !\n"
+		"message": "I The polite way to back out of an argument age of 65 !"
 	},
 	"505": {
 		"type": "",
@@ -2532,7 +2532,7 @@ export default {
 	"510": {
 		"type": "MOTIVE CLUE",
 		"partTotal": 2,
-		"message": "II 'Religion is the ___ of the working classes' (Karl Marx)\n"
+		"message": "II 'Religion is the ___ of the working classes' (Karl Marx)"
 	},
 	"511": {
 		"type": "",
@@ -2552,7 +2552,7 @@ export default {
 	"514": {
 		"type": "LOCATION OF RUBY",
 		"partTotal": 2,
-		"message": "I Makes excellent soup, says the Chairman.\n"
+		"message": "I Makes excellent soup, says the Chairman."
 	},
 	"515": {
 		"type": "",
@@ -2562,7 +2562,7 @@ export default {
 	"516": {
 		"type": "REVOLVER/BANK CLUE",
 		"partTotal": 0,
-		"message": "Place carefully in soil by Gardener type!\n"
+		"message": "Place carefully in soil by Gardener type!"
 	},
 	"517": {
 		"type": "",
@@ -2577,7 +2577,7 @@ export default {
 	"519": {
 		"type": "PRESENT LOCATION OF OBJECT CLUE",
 		"partTotal": 2,
-		"message": "I This M.D is an Irish S.O.S.\n"
+		"message": "I This M.D is an Irish S.O.S."
 	},
 	"520": {
 		"type": "",
@@ -2617,7 +2617,7 @@ export default {
 	"527": {
 		"type": "METHOD CLUE",
 		"partTotal": 4,
-		"message": "III Power source needed by sailing ships.\nIV Francis Drake played bowls on Plymouth _____\n"
+		"message": "III Power source needed by sailing ships.\nIV Francis Drake played bowls on Plymouth _____"
 	},
 	"528": {
 		"type": "",
@@ -2632,7 +2632,7 @@ export default {
 	"530": {
 		"type": "KILLER CLUE",
 		"partTotal": 0,
-		"message": "He might be a merger between an Old Testament prophet and a metal worker.\n"
+		"message": "He might be a merger between an Old Testament prophet and a metal worker."
 	},
 	"531": {
 		"type": "",
@@ -2642,7 +2642,7 @@ export default {
 	"532": {
 		"type": "PRESENT LOCATION OF OBJECT CLUE",
 		"partTotal": 2,
-		"message": "II Final resting place of billiard ball.\n"
+		"message": "II Final resting place of billiard ball."
 	},
 	"533": {
 		"type": "",
@@ -2662,7 +2662,7 @@ export default {
 	"536": {
 		"type": "MOTIVE CLUE",
 		"partTotal": 2,
-		"message": "I Brace oneself for metal alloy used by West Indian Bands!\n"
+		"message": "I Brace oneself for metal alloy used by West Indian Bands!"
 	},
 	"537": {
 		"type": "",
@@ -2707,7 +2707,7 @@ export default {
 	"545": {
 		"type": "THIEF CLUE",
 		"partTotal": 0,
-		"message": "Saintly knight!\n"
+		"message": "Saintly knight!"
 	},
 	"546": {
 		"type": "",
@@ -2717,7 +2717,7 @@ export default {
 	"547": {
 		"type": "THIEF CLUE",
 		"partTotal": 0,
-		"message": "They are actually seen with dog collar.\n"
+		"message": "They are actually seen with dog collar."
 	},
 	"548": {
 		"type": "",
@@ -2732,7 +2732,7 @@ export default {
 	"550": {
 		"type": "KILLER CLUE",
 		"partTotal": 3,
-		"message": "II Opposite of don't\nIII A Knight of the Round Table?\n"
+		"message": "II Opposite of don't\nIII A Knight of the Round Table?"
 	},
 	"551": {
 		"type": "",
@@ -2742,7 +2742,7 @@ export default {
 	"552": {
 		"type": "LOCATION OF RUBY",
 		"partTotal": 2,
-		"message": "II Charles ll's leafy hiding place, after Battle of Worcester.\n"
+		"message": "II Charles ll's leafy hiding place, after Battle of Worcester."
 	},
 	"553": {
 		"type": "",
@@ -2752,7 +2752,7 @@ export default {
 	"554": {
 		"type": "",
 		"partTotal": 0,
-		"message": "Bullock was born in Beddingstone. He left at the age of seventeen under suspicion of theft from theJewellers where he worked.\n"
+		"message": "Bullock was born in Beddingstone. He left at the age of seventeen under suspicion of theft from theJewellers where he worked."
 	},
 	"555": {
 		"type": "",
@@ -2762,7 +2762,7 @@ export default {
 	"556": {
 		"type": "WEAPON CLUE",
 		"partTotal": 3,
-		"message": "I Not tight.\nIII Piece of rock weighing 141bs.\n"
+		"message": "I Not tight.\nIII Piece of rock weighing 141bs."
 	},
 	"557": {
 		"type": "",
@@ -2812,7 +2812,7 @@ export default {
 	"567": {
 		"type": "THIEF CLUE",
 		"partTotal": 2,
-		"message": "II 'When one .... closes, another ..... opens'.\n"
+		"message": "II 'When one .... closes, another ..... opens'."
 	},
 	"568": {
 		"type": "",
@@ -2837,12 +2837,12 @@ export default {
 	"572": {
 		"type": "MOTIVE CLUE",
 		"partTotal": 4,
-		"message": "II Opposite of debit.\nIV The aim of Football clubs in lower divisions?\n"
+		"message": "II Opposite of debit.\nIV The aim of Football clubs in lower divisions?"
 	},
 	"573": {
 		"type": "KILLER CLUE",
 		"partTotal": 2,
-		"message": "II Bishop paints horses?\n"
+		"message": "II Bishop paints horses?"
 	},
 	"574": {
 		"type": "",
@@ -2872,7 +2872,7 @@ export default {
 	"579": {
 		"type": "WHEREABOUTS CLUE",
 		"partTotal": 2,
-		"message": "II Delves - in the ribs, for a laugh?\n"
+		"message": "II Delves - in the ribs, for a laugh?"
 	},
 	"580": {
 		"type": "",
@@ -2882,7 +2882,7 @@ export default {
 	"581": {
 		"type": "KILLER CLUE",
 		"partTotal": 2,
-		"message": "II He carries stout ale.\n"
+		"message": "II He carries stout ale."
 	},
 	"582": {
 		"type": "",
@@ -2892,7 +2892,7 @@ export default {
 	"583": {
 		"type": "ADVICE CLUE",
 		"partTotal": 2,
-		"message": "II Said before meals\n"
+		"message": "II Said before meals"
 	},
 	"584": {
 		"type": "",
@@ -2917,7 +2917,7 @@ export default {
 	"588": {
 		"type": "WHY KILLED CLUE",
 		"partTotal": 0,
-		"message": "Add a chopper to little Sidney and half his false teeth for unintentional occurrence.\n"
+		"message": "Add a chopper to little Sidney and half his false teeth for unintentional occurrence."
 	},
 	"589": {
 		"type": "",
@@ -2982,7 +2982,7 @@ export default {
 	"601": {
 		"type": "KILLER CLUE (Part I)",
 		"partTotal": 0,
-		"message": "Angelic Saint's name.\n"
+		"message": "Angelic Saint's name."
 	},
 	"602": {
 		"type": "",
@@ -3022,7 +3022,7 @@ export default {
 	"609": {
 		"type": "AUTHOR OF NOTE CLUE",
 		"partTotal": 0,
-		"message": "Horse which has Corporation.\n"
+		"message": "Horse which has Corporation."
 	},
 	"610": {
 		"type": "",
@@ -3032,12 +3032,12 @@ export default {
 	"611": {
 		"type": "HOW POISONED CLUE",
 		"partTotal": 2,
-		"message": "I Neutered by M.D.\n"
+		"message": "I Neutered by M.D."
 	},
 	"612": {
 		"type": "WEAPON CLUE",
 		"partTotal": 0,
-		"message": "A pretence followed by hurtful piece of glass and a bottle stopper.\n"
+		"message": "A pretence followed by hurtful piece of glass and a bottle stopper."
 	},
 	"613": {
 		"type": "",
@@ -3097,7 +3097,7 @@ export default {
 	"624": {
 		"type": "METHOD CLUE",
 		"partTotal": 0,
-		"message": "Whoever brought off such a spectacular crime would certainly walk tall.\n"
+		"message": "Whoever brought off such a spectacular crime would certainly walk tall."
 	},
 	"625": {
 		"type": "",
@@ -3137,7 +3137,7 @@ export default {
 	"632": {
 		"type": "METHOD CLUE",
 		"partTotal": 0,
-		"message": "Ate ark in pieces with chop.\n"
+		"message": "Ate ark in pieces with chop."
 	},
 	"633": {
 		"type": "",
@@ -3157,7 +3157,7 @@ export default {
 	"637": {
 		"type": "VILLAIN CLUE",
 		"partTotal": 0,
-		"message": "'Let us see if you have learnt from our code breaking, Watson. Here is the villain we seek.' He handed me his notebook. In it was scrawled 'GV DIBO'.\n"
+		"message": "'Let us see if you have learnt from our code breaking, Watson. Here is the villain we seek.' He handed me his notebook. In it was scrawled 'GV DIBO'."
 	},
 	"638": {
 		"type": "",
@@ -3337,7 +3337,7 @@ export default {
 	"676": {
 		"type": "LOCATION CLUE",
 		"partTotal": 0,
-		"message": "II Source for water or oil.\n"
+		"message": "II Source for water or oil."
 	},
 	"677": {
 		"type": "",
@@ -3347,7 +3347,7 @@ export default {
 	"678": {
 		"type": "LOCATION CLUE",
 		"partTotal": 0,
-		"message": "III Not only lions live in such places.\n"
+		"message": "III Not only lions live in such places."
 	},
 	"679": {
 		"type": "",
@@ -3392,12 +3392,12 @@ export default {
 	"689": {
 		"type": "THIEF CLUE",
 		"partTotal": 0,
-		"message": "II Fair lash (Anagram)\n"
+		"message": "II Fair lash (Anagram)"
 	},
 	"690": {
 		"type": "MOTIVE CLUE",
 		"partTotal": 0,
-		"message": "Not to be cast before swine.\n"
+		"message": "Not to be cast before swine."
 	},
 	"691": {
 		"type": "",
@@ -3422,7 +3422,7 @@ export default {
 	"695": {
 		"type": "LOCATION CLUE",
 		"partTotal": 2,
-		"message": "II A carpenter's case\n"
+		"message": "II A carpenter's case"
 	},
 	"696": {
 		"type": "",
@@ -3457,12 +3457,12 @@ export default {
 	"702": {
 		"type": "METHOD CLUE",
 		"partTotal": 4,
-		"message": "II Sandy hollow golfers aim to miss.\nIV Every locksmith will have this type of skeleton in his cupboard.\n"
+		"message": "II Sandy hollow golfers aim to miss.\nIV Every locksmith will have this type of skeleton in his cupboard."
 	},
 	"703": {
 		"type": "",
 		"partTotal": 0,
-		"message": "'Can I see the letters sent to you requesting new papers?''I am afraid that I threw them out,' replied Heasman.\n"
+		"message": "'Can I see the letters sent to you requesting new papers?''I am afraid that I threw them out,' replied Heasman."
 	},
 	"704": {
 		"type": "",
@@ -3502,7 +3502,7 @@ export default {
 	"711": {
 		"type": "CODE CLUE",
 		"partTotal": 3,
-		"message": "II U = T, O = N, J = l\n"
+		"message": "II U = T, O = N, J = l"
 	},
 	"712": {
 		"type": "",
@@ -3552,12 +3552,12 @@ export default {
 	"721": {
 		"type": "LOCATION CLUE",
 		"partTotal": 0,
-		"message": "I Far from on top.\n"
+		"message": "I Far from on top."
 	},
 	"722": {
 		"type": "THIEF CLUE",
 		"partTotal": 0,
-		"message": "A switch from the Navy to the Church?\n"
+		"message": "A switch from the Navy to the Church?"
 	},
 	"723": {
 		"type": "",
@@ -3622,7 +3622,7 @@ export default {
 	"735": {
 		"type": "CODE CLUE",
 		"partTotal": 0,
-		"message": "III l = H, F = E, P = O\n"
+		"message": "III l = H, F = E, P = O"
 	},
 	"736": {
 		"type": "",
@@ -3647,7 +3647,7 @@ export default {
 	"740": {
 		"type": "METHOD CLUE",
 		"partTotal": 4,
-		"message": "I Variety of plum.\nIII As ......... as houses? More so!\n"
+		"message": "I Variety of plum.\nIII As ......... as houses? More so!"
 	},
 	"741": {
 		"type": "",
@@ -3662,7 +3662,7 @@ export default {
 	"743": {
 		"type": "METHOD CLUE",
 		"partTotal": 0,
-		"message": "Completely enfold: cocoon.\n"
+		"message": "Completely enfold: cocoon."
 	},
 	"744": {
 		"type": "",
@@ -3672,12 +3672,12 @@ export default {
 	"745": {
 		"type": "ESCAPE CLUE",
 		"partTotal": 0,
-		"message": "He'll bring you food but he's not very clever.\n"
+		"message": "He'll bring you food but he's not very clever."
 	},
 	"746": {
 		"type": "LOCATION CLUE",
 		"partTotal": 0,
-		"message": "Look for ribbons that are slightly askew. The ring's held in place by a pin.\n"
+		"message": "Look for ribbons that are slightly askew. The ring's held in place by a pin."
 	},
 	"747": {
 		"type": "",
@@ -3702,7 +3702,7 @@ export default {
 	"751": {
 		"type": "KILLER CLUE",
 		"partTotal": 0,
-		"message": "An Army man without a doubt, whose name you'll have to turn about.\n"
+		"message": "An Army man without a doubt, whose name you'll have to turn about."
 	},
 	"752": {
 		"type": "",
@@ -3732,7 +3732,7 @@ export default {
 	"757": {
 		"type": "LOCATION CLUE",
 		"partTotal": 3,
-		"message": "I Home for green fruit\n"
+		"message": "I Home for green fruit"
 	},
 	"758": {
 		"type": "",
@@ -3782,7 +3782,7 @@ export default {
 	"767": {
 		"type": "CRIME CLUE",
 		"partTotal": 0,
-		"message": "What a baby goat has in the afternoon?\n"
+		"message": "What a baby goat has in the afternoon?"
 	},
 	"768": {
 		"type": "",
@@ -3797,7 +3797,7 @@ export default {
 	"770": {
 		"type": "CODE CLUE",
 		"partTotal": 3,
-		"message": "I It can be confusing, being one step ahead of the rest.\n"
+		"message": "I It can be confusing, being one step ahead of the rest."
 	},
 	"771": {
 		"type": "",
@@ -3857,7 +3857,7 @@ export default {
 	"782": {
 		"type": "LOCATION CLUE:",
 		"partTotal": 0,
-		"message": "Hickory, ____ dock.\n"
+		"message": "Hickory, ____ dock."
 	},
 	"783": {
 		"type": "",
@@ -3892,7 +3892,7 @@ export default {
 	"789": {
 		"type": "LOCATION CLUE",
 		"partTotal": 2,
-		"message": "II Primitive dwelling.\n"
+		"message": "II Primitive dwelling."
 	},
 	"790": {
 		"type": "",
@@ -3912,7 +3912,7 @@ export default {
 	"793": {
 		"type": "LOCATION CLUE",
 		"partTotal": 2,
-		"message": "I Push/shove\n"
+		"message": "I Push/shove"
 	},
 	"794": {
 		"type": "",
@@ -3937,7 +3937,7 @@ export default {
 	"798": {
 		"type": "THIEF CLUE",
 		"partTotal": 2,
-		"message": "I Not a hand maiden, but also.\n"
+		"message": "I Not a hand maiden, but also."
 	},
 	"799": {
 		"type": "",
@@ -3992,7 +3992,7 @@ export default {
 	"809": {
 		"type": "LOCATION CLUE",
 		"partTotal": 2,
-		"message": "I You need a double top to win, and ...\n"
+		"message": "I You need a double top to win, and ..."
 	},
 	"810": {
 		"type": "",
@@ -4042,7 +4042,7 @@ export default {
 	"819": {
 		"type": "LOCATION CLUE",
 		"partTotal": 3,
-		"message": "II O, I'm up, changed and ready for a smoke.'\n"
+		"message": "II O, I'm up, changed and ready for a smoke.'"
 	},
 	"820": {
 		"type": "",
@@ -4077,7 +4077,7 @@ export default {
 	"826": {
 		"type": "LOCATION CLUE",
 		"partTotal": 2,
-		"message": "II Home for a blade?\n"
+		"message": "II Home for a blade?"
 	},
 	"827": {
 		"type": "",
@@ -4087,7 +4087,7 @@ export default {
 	"828": {
 		"type": "KILLER CLUE",
 		"partTotal": 0,
-		"message": "Naromnaitsabeslenoloc.\n"
+		"message": "Naromnaitsabeslenoloc."
 	},
 	"829": {
 		"type": "",
@@ -4122,7 +4122,7 @@ export default {
 	"835": {
 		"type": "WEAPON CLUE",
 		"partTotal": 0,
-		"message": "Comes close to luncheon but begins with 'tea'.\n"
+		"message": "Comes close to luncheon but begins with 'tea'."
 	},
 	"836": {
 		"type": "",
@@ -4137,7 +4137,7 @@ export default {
 	"838": {
 		"type": "THIEF CLUE",
 		"partTotal": 2,
-		"message": "II Cereal Crop.\n"
+		"message": "II Cereal Crop."
 	},
 	"839": {
 		"type": "",
@@ -4242,7 +4242,7 @@ export default {
 	"860": {
 		"type": "THIEF CLUE",
 		"partTotal": 2,
-		"message": "I Dull finish.\n"
+		"message": "I Dull finish."
 	},
 	"861": {
 		"type": "",
@@ -4257,7 +4257,7 @@ export default {
 	"863": {
 		"type": "LOCATION CLUE",
 		"partTotal": 2,
-		"message": "I He cares for sheep.\n"
+		"message": "I He cares for sheep."
 	},
 	"864": {
 		"type": "",
@@ -4297,7 +4297,7 @@ export default {
 	"871": {
 		"type": "GENERAL CLUE",
 		"partTotal": 0,
-		"message": "It's certainly a crafty place to hide something.\n"
+		"message": "It's certainly a crafty place to hide something."
 	},
 	"872": {
 		"type": "",
@@ -4367,7 +4367,7 @@ export default {
 	"885": {
 		"type": "CARGO CLUE",
 		"partTotal": 0,
-		"message": "Remember, remember the 5th of November ...\n"
+		"message": "Remember, remember the 5th of November ..."
 	},
 	"886": {
 		"type": "",
@@ -4387,7 +4387,7 @@ export default {
 	"889": {
 		"type": "WEAPON CLUE",
 		"partTotal": 0,
-		"message": "Classical blunt instrument-heavy tube.\n"
+		"message": "Classical blunt instrument-heavy tube."
 	},
 	"890": {
 		"type": "",
@@ -4632,7 +4632,7 @@ export default {
 	"938": {
 		"type": "WEAPON CLUE",
 		"partTotal": 0,
-		"message": "Knife used for trimming dried plums?\n"
+		"message": "Knife used for trimming dried plums?"
 	},
 	"939": {
 		"type": "",
@@ -4657,12 +4657,12 @@ export default {
 	"943": {
 		"type": "KILLER CLUE",
 		"partTotal": 0,
-		"message": "Happily it falls at night but remains outstanding.\n"
+		"message": "Happily it falls at night but remains outstanding."
 	},
 	"944": {
 		"type": "KILLER CLUE",
 		"partTotal": 0,
-		"message": "Arrows are his business.\n"
+		"message": "Arrows are his business."
 	},
 	"945": {
 		"type": "",
@@ -4917,7 +4917,7 @@ export default {
 	"995": {
 		"type": "DESTINATION CLUE",
 		"partTotal": 0,
-		"message": "A manic Ode! (Anagram)\n"
+		"message": "A manic Ode! (Anagram)"
 	},
 	"996": {
 		"type": "",
