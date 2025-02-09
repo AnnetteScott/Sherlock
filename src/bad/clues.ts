@@ -57,7 +57,12 @@ export default {
 	"10": {
 		"type": "MOTIVE CLUE",
 		"partTotal": 2,
-		"message": "I The sincerest form off flattery.\nII Prudence Madderley was the model for a scandalous painting by Fletcher Exworthy."
+		"message": "I The sincerest form of flattery."
+	},
+	"11": {
+		"type": "",
+		"partTotal": 0,
+		"message": "Prudence Madderley was the model for a scandalous painting by Fletcher Exworthy."
 	},
 	"12": {
 		"type": "",
